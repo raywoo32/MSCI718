@@ -1,0 +1,3118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHospital xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="">
+  <hospital>
+    <ID>220</ID>
+    <Name>1230839 Ontario Ltd. - Brouillette Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>158</ID>
+    <Name>2109577 Ontario Ltd. - Of Arbour Heights</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>644</ID>
+    <Name>412506 Ontario Ltd - St. Jacques Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>613</ID>
+    <Name>458422 Ontario Ltd. - Sandfield Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>249</ID>
+    <Name>601091 Ontario Ltd. - Cedarvale Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>61</ID>
+    <Name>601092 Ontario Limited - Vermont Square</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>549</ID>
+    <Name>848357 Ontario Inc. - The O'Neill Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>532</ID>
+    <Name>913096 Ontario Limited - Nipissing Manor Nursing Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>59</ID>
+    <Name>Advent Health Care Corporation - Valley View Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>182</ID>
+    <Name>Albright Gardens Homes Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>185</ID>
+    <Name>Algonquin Nursing Home of Mattawa Limited - Algonquin Nursing Home of Mattawa Ltd.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>352</ID>
+    <Name>Almonte General Hospital - Fairview Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>629</ID>
+    <Name>Anson General Hospital - South Centennial Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>251</ID>
+    <Name>Aon Inc. - Centennial Place LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>149</ID>
+    <Name>Aon Inc. - Moira Place LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>275</ID>
+    <Name>Apans Health Services - Copper Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>518</ID>
+    <Name>Apans Health Services - MiddleSex Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>551</ID>
+    <Name>Apans Health Services - Park Lane Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>591</ID>
+    <Name>Apans Health Services - Richmond Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>97</ID>
+    <Name>Apans Health Services - Watford Quality Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>140</ID>
+    <Name>Atikokan General Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>311</ID>
+    <Name>ATK Care Inc. - Exeter Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>596</ID>
+    <Name>ATK Care Inc. - River Glen Haven Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>359</ID>
+    <Name>ATK Care Inc. - The Fordwich Village Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>3510</ID>
+    <Name>Autumnwood Mature Lifestyle Communities Inc. - Cedarwood Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>192</ID>
+    <Name>Babcock Community Care Centre Inc. - Babcock Community Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>101</ID>
+    <Name>Barton Retirement Inc. - The Wellington Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>195</ID>
+    <Name>Bay Haven Nursing Home Inc. - Bayhaven Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>197</ID>
+    <Name>Baycrest Centre for Geriatric Care - The Jewish Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>201</ID>
+    <Name>Belcrest Nursing Homes Limited - Belcrest Nursing Homes Ltd.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>199</ID>
+    <Name>Bella Senior Care Residences Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>402</ID>
+    <Name>Benevolent Society Heidehof for the Care of the Aged - Heidehof LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>74</ID>
+    <Name>Berkshire Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>206</ID>
+    <Name>Bethany Lodge Foundation - Bethany Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>166</ID>
+    <Name>Bingham Memorial Hospital - Rosedale Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>212</ID>
+    <Name>Bluewater Rest Home Inc. - Bluewater Rest Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>184</ID>
+    <Name>Board of Management for the District of Algoma - Algoma Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>189</ID>
+    <Name>Board of Management Home for the Aged W. Nipissing - Au Chateau</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>544</ID>
+    <Name>Board of Management of the District of Kenora - Northwood Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>567</ID>
+    <Name>Board of Management of the District of Kenora - Pinecrest</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>579</ID>
+    <Name>Board of Management of the District of Kenora - Princess Court</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>245</ID>
+    <Name>Board of Management of the District of Nipissing East - Cassellholme</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>202</ID>
+    <Name>Board of Management of the District of Parry Sound - Belvedere Heights</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>263</ID>
+    <Name>Broadview Foundation - Chester Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>219</ID>
+    <Name>Broadview Nursing Centre Limited - Broadview Nursing Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>221</ID>
+    <Name>Brucelea Haven - Brucelea Haven LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>374</ID>
+    <Name>Brucelea Haven - Gateway Haven LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>84</ID>
+    <Name>Bruyère Continuing Care Inc. - Élisabeth Bruèyre Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>590</ID>
+    <Name>Bruyère Continuing Care Inc. - Residence Saint-Louis</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>529</ID>
+    <Name>Canadian Reformed Society for a Home for the Aged Inc.  - Mount Nemo Christian Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>302</ID>
+    <Name>Capricorn Investments Corporation Limited - Elgin Abbey Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>228</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Arthur Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>229</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Bourget</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>226</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Cambridge Country Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>230</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Cobden</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>231</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Courtland</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>232</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Fergus Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>233</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Harriston</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>234</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Lindsay Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>235</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Listowel Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>236</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Marmora</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>237</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - on Bonnie Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>238</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - on Mary Bucke</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>239</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - on Mclaughlin Road</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>501</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - The Maples Home for Seniors</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>240</ID>
+    <Name>Caressant-Care Nursing &amp; Retirement Homes Limited - Woodstock Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>243</ID>
+    <Name>Carveth Nursing Home Limited - Carveth Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>253</ID>
+    <Name>Centre d'accueil Roger-Séguin</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>163</ID>
+    <Name>Chapleau Health Services - The Bignucolo Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>255</ID>
+    <Name>Chartwell Master Care LP - Aylmer LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>247</ID>
+    <Name>Chartwell Master Care LP - Cawthra Gardens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>190</ID>
+    <Name>Chartwell Master Care LP - Chartwell Aurora LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>193</ID>
+    <Name>Chartwell Master Care LP - Chartwell Ballycliffe</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>214</ID>
+    <Name>Chartwell Master Care LP - Chartwell Bon Air LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>217</ID>
+    <Name>Chartwell Master Care LP - Chartwell Brant Centre LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>589</ID>
+    <Name>Chartwell Master Care LP - Chartwell Champlain LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>376</ID>
+    <Name>Chartwell Master Care LP - Chartwell Gibson LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>564</ID>
+    <Name>Chartwell Master Care LP - Chartwell Pine Grove LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>607</ID>
+    <Name>Chartwell Master Care LP - Chartwell Royal Oak LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>44</ID>
+    <Name>Chartwell Master Care LP - Chartwell Trilogy LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>96</ID>
+    <Name>Chartwell Master Care LP - Chartwell Waterford LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>103</ID>
+    <Name>Chartwell Master Care LP - Chartwell Wenleigh LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>111</ID>
+    <Name>Chartwell Master Care LP - Chartwell Westbury LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>113</ID>
+    <Name>Chartwell Master Care LP - Chartwell Westmount LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>116</ID>
+    <Name>Chartwell Master Care LP - Chartwell White Eagle LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>119</ID>
+    <Name>Chartwell Master Care LP - Chartwell Willowgrove LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>123</ID>
+    <Name>Chartwell Master Care LP - Chartwell Woodhaven LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>131</ID>
+    <Name>Chartwell Master Care LP - Chartwell Wynfield LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>256</ID>
+    <Name>Chartwell Master Care LP - Elmira Term Care Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>257</ID>
+    <Name>Chartwell Master Care LP - Lancaster LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>258</ID>
+    <Name>Chartwell Master Care LP - London LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>259</ID>
+    <Name>Chartwell Master Care LP - Niagara LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>260</ID>
+    <Name>Chartwell Master Care LP - Parkhill LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>581</ID>
+    <Name>Chartwell Master Care LP - Queen's Garden</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>588</ID>
+    <Name>Chartwell Master Care LP - Regina Gardens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>81</ID>
+    <Name>Chartwell Master Care LP - Villa Forum</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>265</ID>
+    <Name>Clarion Nursing Homes Limited - Clarion Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>384</ID>
+    <Name>Clurelea Ltd - Good Samaritan Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>267</ID>
+    <Name>Collingwood Nursing Home Limited - Collingwood Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>269</ID>
+    <Name>Community Lifecare Inc. - The Palace LTC</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>207</ID>
+    <Name>Conmed Healthcare Group - Billings Court Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>282</ID>
+    <Name>Conmed Healthcare Group - Crescent Park Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>498</ID>
+    <Name>Conmed Healthcare Group - Maple Park Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>519</ID>
+    <Name>Conmed Healthcare Group - Millennium Trail Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>543</ID>
+    <Name>Conmed Healthcare Group - Northview Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>548</ID>
+    <Name>Conmed Healthcare Group - Oakwood Park Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>57</ID>
+    <Name>Conmed Healthcare Group - Valley Park Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>274</ID>
+    <Name>Copernicus Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>379</ID>
+    <Name>Corporation of the City of Cornwall - Glen-Stor-Dun Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>58</ID>
+    <Name>Corporation of the City of St. Thomas - Valleyview Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>574</ID>
+    <Name>Corporation of the City of Thunder Bay - Pioneer Ridge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>381</ID>
+    <Name>Corporation of the City of Timmins - Golden Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>203</ID>
+    <Name>Corporation of the City of Toronto - Bendale Acres</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>227</ID>
+    <Name>Corporation of the City of Toronto - Carefree Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>246</ID>
+    <Name>Corporation of the City of Toronto - Castleview Wychwood Towers</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>284</ID>
+    <Name>Corporation of the City of Toronto - Cummer Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>370</ID>
+    <Name>Corporation of the City of Toronto - Fudger House</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>444</ID>
+    <Name>Corporation of the City of Toronto - Kipling Acres</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>451</ID>
+    <Name>Corporation of the City of Toronto - Lakeshore Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>619</ID>
+    <Name>Corporation of the City of Toronto - Seven Oaks</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>46</ID>
+    <Name>Corporation of the City of Toronto - True Davidson Acres</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>106</ID>
+    <Name>Corporation of the City of Toronto - Wesburn Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>294</ID>
+    <Name>Corporation of the County of Dufferin - Dufferin Oaks</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>20</ID>
+    <Name>Corporation of the County of Essex - Sun Parlor Home for Senior Citizens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>349</ID>
+    <Name>Corporation of the County of Frontenac - Fairmount Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>400</ID>
+    <Name>Corporation of the County of Hastings - Hastings Centennial Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>401</ID>
+    <Name>Corporation of the County of Hastings - Hastings Manor Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>421</ID>
+    <Name>Corporation Of The County Of Huron - Huronlea Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>422</ID>
+    <Name>Corporation Of The County Of Huron - Huronview Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>507</ID>
+    <Name>Corporation Of The County Of Lambton - Marshall Gowland Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>538</ID>
+    <Name>Corporation Of The County Of Lambton - North Lambton Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>456</ID>
+    <Name>Corporation Of The County Of Lanark - Lanark Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>433</ID>
+    <Name>Corporation Of The County Of Lennox And Addington - The John M. Parrott Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>17</ID>
+    <Name>Corporation Of The County Of Middlesex - Strathmere Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>382</ID>
+    <Name>Corporation Of The County Of Northumberland - Golden Plough Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>512</ID>
+    <Name>Corporation Of The County Of Prince Edward - H.J. Mcfarland Memorial Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>215</ID>
+    <Name>Corporation Of The County Of Renfrew - Bonnechere Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>520</ID>
+    <Name>Corporation Of The County Of Renfrew - Miramichi Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>76</ID>
+    <Name>Corporation Of The County Of Victoria - Victoria Manor Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>102</ID>
+    <Name>Corporation Of The County Of Wellington - Wellington Terrace LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>27</ID>
+    <Name>Corporation Of The Town Of Kirkland Lake - Teck Pioneer Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>279</ID>
+    <Name>Craigwiel Gardens - Craigholme</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>283</ID>
+    <Name>Crown Ridge Health Care Services Inc. - Crown Ridge Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>112</ID>
+    <Name>Crown Ridge Health Care Services Inc. - Westgate Lodge Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>500</ID>
+    <Name>Dallov Holdings Ltd - Maple Villa LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>570</ID>
+    <Name>Deem Management Services Ltd - Pinehaven Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>363</ID>
+    <Name>Deep River And District Hospital - The Four Seasons Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>289</ID>
+    <Name>Derbecker's Heritage House Ltd - Derbecker's Heritage House</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>244</ID>
+    <Name>Diversicare Canada Management Services Co., Inc. - Downsview LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>398</ID>
+    <Name>Diversicare Canada Management Services Co., Inc. - Hardy Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>561</ID>
+    <Name>Diversicare Canada Management Services Co., Inc. - Perth Community Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>35</ID>
+    <Name>Diversicare Canada Management Services Co., Inc. - Tilbury Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>83</ID>
+    <Name>Diversicare Canada Management Services Co., Inc. - Villa Marconi</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>109</ID>
+    <Name>Diversicare Canada Management Services Co., Inc. - West Park Health Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>32</ID>
+    <Name>Don Mills Foundation For Senior Citizens Inc. - Thompson House</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>293</ID>
+    <Name>Drs Paul And John Rekai Centre - Drs. Paul and John Rekai Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>99</ID>
+    <Name>Drs Paul And John Rekai Centre - Wellesley Central Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>295</ID>
+    <Name>Dundas Manor Ltd - Dundas Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>298</ID>
+    <Name>East District Of Parry Sound Home For The Aged - Eastholme Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>299</ID>
+    <Name>Eden House Care Facility Inc. - Eden House Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>213</ID>
+    <Name>Elgin County - Bobier Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>303</ID>
+    <Name>Elgin County - Elgin Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>31</ID>
+    <Name>Elgin County - Terrace Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>307</ID>
+    <Name>Elm Grove Living Centre Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>171</ID>
+    <Name>Espanola General Hospital - Espanola Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>301</ID>
+    <Name>Estonian Relief Committee In Canada - Ehatare Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>198</ID>
+    <Name>Extendicare (Canada) Inc. - Bayfield Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>312</ID>
+    <Name>Extendicare (Canada) Inc. - Bayview</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>204</ID>
+    <Name>Extendicare (Canada) Inc. - Bennett Health Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>208</ID>
+    <Name>Extendicare (Canada) Inc. - Birchwood Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>209</ID>
+    <Name>Extendicare (Canada) Inc. - Blackadar Continuing Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>313</ID>
+    <Name>Extendicare (Canada) Inc. - Brampton</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>262</ID>
+    <Name>Extendicare (Canada) Inc. - Chelsey Park (Oxford) Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>314</ID>
+    <Name>Extendicare (Canada) Inc. - Cobourg</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>276</ID>
+    <Name>Extendicare (Canada) Inc. - Country Lane LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>278</ID>
+    <Name>Extendicare (Canada) Inc. - Country Village Health Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>280</ID>
+    <Name>Extendicare (Canada) Inc. - Craiglee Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>286</ID>
+    <Name>Extendicare (Canada) Inc. - Dearness Home for Senior Citizens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>346</ID>
+    <Name>Extendicare (Canada) Inc. - F.J. Davey Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>315</ID>
+    <Name>Extendicare (Canada) Inc. - Falconbridge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>70</ID>
+    <Name>Extendicare (Canada) Inc. - Georgian Heights</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>316</ID>
+    <Name>Extendicare (Canada) Inc. - Guildwood</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>317</ID>
+    <Name>Extendicare (Canada) Inc. - Haliburton</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>318</ID>
+    <Name>Extendicare (Canada) Inc. - Halton Hills</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>319</ID>
+    <Name>Extendicare (Canada) Inc. - Hamilton</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>395</ID>
+    <Name>Extendicare (Canada) Inc. - Hamilton Continuing Care</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>270</ID>
+    <Name>Extendicare (Canada) Inc. - Hope Street Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>320</ID>
+    <Name>Extendicare (Canada) Inc. - Kapuskasing</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>321</ID>
+    <Name>Extendicare (Canada) Inc. - Kawartha Lakes</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>322</ID>
+    <Name>Extendicare (Canada) Inc. - Kingston</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>323</ID>
+    <Name>Extendicare (Canada) Inc. - Kirkland Lake</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>324</ID>
+    <Name>Extendicare (Canada) Inc. - Lakefield</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>452</ID>
+    <Name>Extendicare (Canada) Inc. - Lakeside LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>325</ID>
+    <Name>Extendicare (Canada) Inc. - Laurier Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>326</ID>
+    <Name>Extendicare (Canada) Inc. - London</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>492</ID>
+    <Name>Extendicare (Canada) Inc. - Maitland Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>494</ID>
+    <Name>Extendicare (Canada) Inc. - Manitoulin Centennial Manor Home for the Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>496</ID>
+    <Name>Extendicare (Canada) Inc. - Manoir Marochel</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>3506</ID>
+    <Name>Extendicare (Canada) Inc. - Maple View</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>2336</ID>
+    <Name>Extendicare (Canada) Inc. - McCall Centre LTC Interim Unit</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>327</ID>
+    <Name>Extendicare (Canada) Inc. - Medex</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>328</ID>
+    <Name>Extendicare (Canada) Inc. - Mississauga</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>523</ID>
+    <Name>Extendicare (Canada) Inc. - Mitchell Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>329</ID>
+    <Name>Extendicare (Canada) Inc. - New Orchard Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>271</ID>
+    <Name>Extendicare (Canada) Inc. - Orchard Villa LTC</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>330</ID>
+    <Name>Extendicare (Canada) Inc. - Oshawa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>550</ID>
+    <Name>Extendicare (Canada) Inc. - Parisien Manor Nursing Home Cornwall</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>553</ID>
+    <Name>Extendicare (Canada) Inc. - Parkview Manor Health Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>331</ID>
+    <Name>Extendicare (Canada) Inc. - Peterborough</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>177</ID>
+    <Name>Extendicare (Canada) Inc. - Pinecrest Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>332</ID>
+    <Name>Extendicare (Canada) Inc. - Port Hope</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>272</ID>
+    <Name>Extendicare (Canada) Inc. - Port Perry Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>333</ID>
+    <Name>Extendicare (Canada) Inc. - Port Stanley</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>593</ID>
+    <Name>Extendicare (Canada) Inc. - Rideaucrest Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>595</ID>
+    <Name>Extendicare (Canada) Inc. - Ritz Lutheran Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>334</ID>
+    <Name>Extendicare (Canada) Inc. - Rouge Valley</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>335</ID>
+    <Name>Extendicare (Canada) Inc. - Scarborough</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>631</ID>
+    <Name>Extendicare (Canada) Inc. - Southlake Residential Care Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>336</ID>
+    <Name>Extendicare (Canada) Inc. - Southwood Lakes</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>337</ID>
+    <Name>Extendicare (Canada) Inc. - St. Catharines</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>338</ID>
+    <Name>Extendicare (Canada) Inc. - Starwood</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>339</ID>
+    <Name>Extendicare (Canada) Inc. - Tecumseh</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>30</ID>
+    <Name>Extendicare (Canada) Inc. - Tendercare Living Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>341</ID>
+    <Name>Extendicare (Canada) Inc. - Timmins</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>342</ID>
+    <Name>Extendicare (Canada) Inc. - Tri-Town</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>343</ID>
+    <Name>Extendicare (Canada) Inc. - Van Daele</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>79</ID>
+    <Name>Extendicare (Canada) Inc. - Villa Colombo Homes for the Aged Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>273</ID>
+    <Name>Extendicare (Canada) Inc. - Warkworth Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>100</ID>
+    <Name>Extendicare (Canada) Inc. - Wellington House Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>344</ID>
+    <Name>Extendicare (Canada) Inc. - West End Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>110</ID>
+    <Name>Extendicare (Canada) Inc. - West Park LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>130</ID>
+    <Name>Extendicare (Canada) Inc. - Wyndham Manor LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>345</ID>
+    <Name>Extendicare (Canada) Inc. - York</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>353</ID>
+    <Name>Fairview Mennonite Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>357</ID>
+    <Name>Fiddick's Nursing Home Ltd - Fiddick's Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>358</ID>
+    <Name>Finlandia Nursing Home Ltd - Finlandia Hoivakoti Nursing Home Limited</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>364</ID>
+    <Name>Foyer Hearst - Mattice - Soin De Sante - Foyer des Pionniers</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>365</ID>
+    <Name>Foyer Richelieu (Welland) Inc. - Foyer Richelieu Welland</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>394</ID>
+    <Name>Gem Health Care Group Ltd - Groves Park Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>366</ID>
+    <Name>Genesis Gardens Inc. - Foyer St-Viateur Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>142</ID>
+    <Name>Geraldton District Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>403</ID>
+    <Name>Gibson Holdings (Ontario) Ltd - Helen Henderson Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>380</ID>
+    <Name>Golden Dawn Senior Citizen Home - Golden Dawn Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>386</ID>
+    <Name>Grace Villa Ltd - Grace Villa Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>392</ID>
+    <Name>Grove Park Home for Senior Citizens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>300</ID>
+    <Name>Haldimand War Memorial Hospital - Edgewater Gardens LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>423</ID>
+    <Name>Haliburton Highlands Health Services - Hyland Crest</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>397</ID>
+    <Name>Hanover Nursing Home Ltd - Hanover Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>404</ID>
+    <Name>Hellenic Care For Seniors (Toronto) Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>405</ID>
+    <Name>Hellenic Home For The Aged Inc. - Scarborough</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>407</ID>
+    <Name>Heritage Green Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>408</ID>
+    <Name>Heritage Nursing Homes Inc. - The Heritage Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>411</ID>
+    <Name>Highland Wood</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>412</ID>
+    <Name>Hillcrest Village Inc. - Hillcrest Village Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>417</ID>
+    <Name>Hilltop Manor Nursing Home Ltd - Hilltop Manor Nursing Home Limited</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>355</ID>
+    <Name>Holland Christian Homes Inc. - Faith Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>385</ID>
+    <Name>Holland Christian Homes Inc. - Grace Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>165</ID>
+    <Name>Hornepayne Community Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>350</ID>
+    <Name>Huntsville District Nursing Home Inc. - Fairvern Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>424</ID>
+    <Name>I.O.O.F. Senior Citizen Homes Inc. - Odd Fellow and Rebekah Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>425</ID>
+    <Name>Idlewyld Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>428</ID>
+    <Name>Ina Grafton Gage Home Of Toronto - Ina Grafton Gage Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>183</ID>
+    <Name>Jarlette Health Services - Alexander Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>191</ID>
+    <Name>Jarlette Health Services - Avalon Retirement Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>305</ID>
+    <Name>Jarlette Health Services - Elizabeth Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>458</ID>
+    <Name>Jarlette Health Services - Leacock Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>495</ID>
+    <Name>Jarlette Health Services - Manitoulin Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>515</ID>
+    <Name>Jarlette Health Services - Meadow Park (London) Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>514</ID>
+    <Name>Jarlette Health Services - Meadow Park Nursing Home (Chatham)</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>530</ID>
+    <Name>Jarlette Health Services - Muskoka Landing</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>603</ID>
+    <Name>Jarlette Health Services - Roberta Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>4803</ID>
+    <Name>Jarlette Health Services - Royal Rose Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>630</ID>
+    <Name>Jarlette Health Services - Southampton Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>11</ID>
+    <Name>Jarlette Health Services - Stayner Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>29</ID>
+    <Name>Jarlette Health Services - Temiskaming Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>78</ID>
+    <Name>Jarlette Health Services - The Villa Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>296</ID>
+    <Name>Keay Nursing Homes Inc. - E. J. Mcquigge Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>435</ID>
+    <Name>Kemptville District Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>442</ID>
+    <Name>King Nursing Home Limited - King Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>443</ID>
+    <Name>Kingsway Nursing Homes Limited - Kingsway Lodge Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>445</ID>
+    <Name>Knollcrest Lodge Limited - Knollcrest Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>446</ID>
+    <Name>Kristus Darzs Latvian Home for the Aged - Kristus Darzs Latvian Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>447</ID>
+    <Name>Labdara Foundation - Labdara Lithuanian Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>448</ID>
+    <Name>Lady Dunn Health Centre - Lady Dunn Health Centre (Wawa)</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>565</ID>
+    <Name>Land O'lakes Community Services - Pine Meadow Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>347</ID>
+    <Name>Lapointe-Fisher Nursing Home Limited - Fairfield Park</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>457</ID>
+    <Name>Lapointe-Fisher Nursing Home Limited - Lapointe-Fisher Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>45</ID>
+    <Name>Lutheran Homes Kitchener-Waterloo - Trinity Village Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>159</ID>
+    <Name>Macgowan Nursing Homes Ltd. - Braemar Retirement Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>143</ID>
+    <Name>Manitouwadge General Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>13</ID>
+    <Name>Manorcare Partners - Stirling Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>368</ID>
+    <Name>Manorcare Partners Ii - Friendly Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>250</ID>
+    <Name>Maplewood Nursing Home Limited - Cedarwood Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>497</ID>
+    <Name>Maplewood Nursing Home Limited - Maple Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>503</ID>
+    <Name>Marianhill Inc. - Marianhill Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>504</ID>
+    <Name>Mariann Nursing Home and Residence - Mariann Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>505</ID>
+    <Name>Markhaven Inc. - Markhaven, Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>646</ID>
+    <Name>MarycreSt. Home for the Aged - St. Joseph's At Fleming</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>509</ID>
+    <Name>Maxville Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>510</ID>
+    <Name>Maynard Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>151</ID>
+    <Name>Mccausland Hospital - Wilkes Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>454</ID>
+    <Name>Meadowview Villa - Lambton Meadowview Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>517</ID>
+    <Name>Meaford Nursing Home Limited - Meaford LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>569</ID>
+    <Name>Medlaw Corporation Limited - Bobcaygeon</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>25</ID>
+    <Name>Mennonite Brethren Senior Citizens Home - Mennonite Brethren Senior Citizens Home Oa Tabor Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>261</ID>
+    <Name>Meritas Care Corporation - Chateau Park LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>367</ID>
+    <Name>Meritas Care Corporation - Franklin Gardens LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>587</ID>
+    <Name>Meritas Care Corporation - Regency Park LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>169</ID>
+    <Name>Mill Creek Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>75</ID>
+    <Name>Mirdem Nursing Homes Ltd. - Victoria Gardens LTC</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>522</ID>
+    <Name>Mississauga LTC Facility Inc. - Mississauga LTC Facility</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>47</ID>
+    <Name>Mohawk Council of Akwesasne - Tsiionkwanonhsote</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>524</ID>
+    <Name>Mon Sheong Foundation - Mon Sheong Home For The Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>525</ID>
+    <Name>Mon Sheong Foundation - Mon Sheong Richmond Hill LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>526</ID>
+    <Name>Mon Sheong Foundation - Mon Sheong Scarborough LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>600</ID>
+    <Name>Municipality of Chatham-Kent - Riverview Gardens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>531</ID>
+    <Name>Niagara Health System - Welland Hospital Site, Extended Care Unit</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>427</ID>
+    <Name>Niagara Ina Grafton Gage Village of The United Church - Niagara Ina Grafton Gage Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>144</ID>
+    <Name>Nipigon District Memorial Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>533</ID>
+    <Name>Nisbet Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>536</ID>
+    <Name>Norfolk Hospital Nursing Home - The Norfolk Hospital Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>537</ID>
+    <Name>North Centennial Manor Inc. - North Centennial Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>539</ID>
+    <Name>North Park Nursing Home Limited - North Park Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>540</ID>
+    <Name>North Renfrew LTC Services Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>211</ID>
+    <Name>North Shore Health Network - LTC Unit</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>618</ID>
+    <Name>North York General Hospital - Seniors' Health Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>546</ID>
+    <Name>Norwood Nursing Home Limited - Norwood Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>187</ID>
+    <Name>Omni Health Care Ltd. - Almonte Country Haven</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>223</ID>
+    <Name>Omni Health Care Ltd. - Burnbrae Gardens LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>277</ID>
+    <Name>Omni Health Care Ltd. - Country Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>361</ID>
+    <Name>Omni Health Care Ltd. - Forest Hill</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>369</ID>
+    <Name>Omni Health Care Ltd. - Frost Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>372</ID>
+    <Name>Omni Health Care Ltd. - Garden Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>439</ID>
+    <Name>Omni Health Care Ltd. - Kentwood Park</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>502</ID>
+    <Name>Omni Health Care Ltd. - Maplewood</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>576</ID>
+    <Name>Omni Health Care Ltd. - Pleasant Meadow Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>601</ID>
+    <Name>Omni Health Care Ltd. - Riverview Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>605</ID>
+    <Name>Omni Health Care Ltd. - Rosebridge Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>639</ID>
+    <Name>Omni Health Care Ltd. - Springdale Country Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>18</ID>
+    <Name>Omni Health Care Ltd. - Streamway Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>87</ID>
+    <Name>Omni Health Care Ltd. - The Village Green Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>120</ID>
+    <Name>Omni Health Care Ltd. - The Willows Estate Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>127</ID>
+    <Name>Omni Health Care Ltd. - Woodland Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>2035</ID>
+    <Name>Oneida Nation of The Thames - Tsi'Nu:Yoyantle Na'Tuhuwatisni</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>555</ID>
+    <Name>Parkview Health Care Partnership - Parkview Nursing Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>554</ID>
+    <Name>Parkview Meadows Christian Retirement Village - Gardenview LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>556</ID>
+    <Name>Parkwood Mennonite Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>288</ID>
+    <Name>Peoplecare Inc. - Delhi LTC</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>383</ID>
+    <Name>Peoplecare Inc. - Golden Years</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>180</ID>
+    <Name>Peoplecare Inc. - Peoplecare AR Goudie</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>416</ID>
+    <Name>Peoplecare Inc. - Peoplecare Hilltop Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>160</ID>
+    <Name>Peoplecare Inc. - Peoplecare Oakcrossing</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>559</ID>
+    <Name>Peoplecare Inc. - Peoplecare Tavistock</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>560</ID>
+    <Name>Perley and Rideau Veterans' Health Centre - Standard Beds</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>1390</ID>
+    <Name>Perley and Rideau Veterans' Health Centre - Veterans Beds</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>575</ID>
+    <Name>Pleasant Manor Retirement Village - OA Pleasant Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>441</ID>
+    <Name>Poranganel Holdings Ltd. - King City Lodge Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>224</ID>
+    <Name>Primacare Living Solutions - Burton Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>406</ID>
+    <Name>Primacare Living Solutions - Henley House</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>3507</ID>
+    <Name>Primacare Living Solutions - Henley Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>580</ID>
+    <Name>Providence Care Centre - Providence Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>602</ID>
+    <Name>Providence Healthcare</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>309</ID>
+    <Name>Provincial Nursing Home Ltd. Partnership - Errinrung Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>582</ID>
+    <Name>Provincial Nursing Home Ltd. Partnership - Queensway Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>586</ID>
+    <Name>Provincial Nursing Home Ltd. Partnership - Regency Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>622</ID>
+    <Name>Provincial Nursing Home Ltd. Partnership - Shelburne Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>351</ID>
+    <Name>Regional Municipality Of Durham - Fairview Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>414</ID>
+    <Name>Regional Municipality Of Durham - Hillsdale Estates</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>415</ID>
+    <Name>Regional Municipality Of Durham - Hillsdale Terraces</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>453</ID>
+    <Name>Regional Municipality Of Durham - Lakeview Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>489</ID>
+    <Name>Regional Municipality Of Hamilton-Wentworth - Macassa Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>104</ID>
+    <Name>Regional Municipality Of Hamilton-Wentworth - Wentworth Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>241</ID>
+    <Name>Regional Municipality Of Ottawa-Carleton - Carleton Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>252</ID>
+    <Name>Regional Municipality Of Ottawa-Carleton - Centre D'accueil Champlain</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>373</ID>
+    <Name>Regional Municipality Of Ottawa-Carleton - Garry J. Armstrong Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>562</ID>
+    <Name>Regional Municipality Of Ottawa-Carleton - Peter D. Clark Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>348</ID>
+    <Name>Regional Municipality Of Peterborough - Fairhaven</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>22</ID>
+    <Name>Regional Municipality Of Waterloo - Sunnyside Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>420</ID>
+    <Name>Regional Municipality Of Windsor - Huron Lodge LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>137</ID>
+    <Name>Regional Municipality Of York - York Region Maple Health Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>138</ID>
+    <Name>Regional Municipality Of York - York Region Newmarket Health Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>4</ID>
+    <Name>Religious Hospitallers Of St.Joseph H.C.Of Cornwal - St. Joseph's Continuing Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>527</ID>
+    <Name>Retirement Home Specialists Inc. - Morriston Park Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>194</ID>
+    <Name>Revera Inc. - Banwell Gardens Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>196</ID>
+    <Name>Revera Inc. - Bay Ridges</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>66</ID>
+    <Name>Revera Inc. - Baywoods Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>210</ID>
+    <Name>Revera Inc. - Blenheim Community Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>64</ID>
+    <Name>Revera Inc. - Brierwood Gardens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>222</ID>
+    <Name>Revera Inc. - Burloak</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>242</ID>
+    <Name>Revera Inc. - Carlingview Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>268</ID>
+    <Name>Revera Inc. - Columbia Forest</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>292</ID>
+    <Name>Revera Inc. - Dover Cliffs</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>297</ID>
+    <Name>Revera Inc. - Eagle Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>304</ID>
+    <Name>Revera Inc. - Elginwood</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>69</ID>
+    <Name>Revera Inc. - Elmwood Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>356</ID>
+    <Name>Revera Inc. - Fenelon Court</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>360</ID>
+    <Name>Revera Inc. - Forest Heights</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>362</ID>
+    <Name>Revera Inc. - Fosterbrooke</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>67</ID>
+    <Name>Revera Inc. - Garden City Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>71</ID>
+    <Name>Revera Inc. - Hallowell House</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>399</ID>
+    <Name>Revera Inc. - Harold And Grace Baker Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>62</ID>
+    <Name>Revera Inc. - Heartwood (Fka Versa-Care Cornwall)</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>147</ID>
+    <Name>Revera Inc. - Hillside Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>65</ID>
+    <Name>Revera Inc. - Humber Valley Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>426</ID>
+    <Name>Revera Inc. - Iler Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>436</ID>
+    <Name>Revera Inc. - Kennedy Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>440</ID>
+    <Name>Revera Inc. - Kilean Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>63</ID>
+    <Name>Revera Inc. - Lakehead Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>487</ID>
+    <Name>Revera Inc. - Longfields Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>490</ID>
+    <Name>Revera Inc. - Mackenzie Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>68</ID>
+    <Name>Revera Inc. - Main Street Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>513</ID>
+    <Name>Revera Inc. - Mcgarrell Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>254</ID>
+    <Name>Revera Inc. - Montfort</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>542</ID>
+    <Name>Revera Inc. - Northridge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>547</ID>
+    <Name>Revera Inc. - Oak Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>568</ID>
+    <Name>Revera Inc. - Pinecrest Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>572</ID>
+    <Name>Revera Inc. - Pinewood Court</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>585</ID>
+    <Name>Revera Inc. - Reachview Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>594</ID>
+    <Name>Revera Inc. - Ridgeview</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>597</ID>
+    <Name>Revera Inc. - Riverbend Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>599</ID>
+    <Name>Revera Inc. - Riverside Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>614</ID>
+    <Name>Revera Inc. - Sara Vista</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>625</ID>
+    <Name>Revera Inc. - Sherwood Court LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>606</ID>
+    <Name>Revera Inc. - Southbridge Roseview</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>12</ID>
+    <Name>Revera Inc. - Stirling Heights</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>14</ID>
+    <Name>Revera Inc. - Stoneridge Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>19</ID>
+    <Name>Revera Inc. - Sumac Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>73</ID>
+    <Name>Revera Inc. - Summit Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>28</ID>
+    <Name>Revera Inc. - Telfer Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>148</ID>
+    <Name>Revera Inc. - The Meadows</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>94</ID>
+    <Name>Revera Inc. - The Village Seniors Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>33</ID>
+    <Name>Revera Inc. - Thorntonview</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>41</ID>
+    <Name>Revera Inc. - Trillium Court</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>86</ID>
+    <Name>Revera Inc. - Village On The Ridge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>108</ID>
+    <Name>Revera Inc. - West Oak Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>114</ID>
+    <Name>Revera Inc. - Westside</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>121</ID>
+    <Name>Revera Inc. - Winbourne Park</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>141</ID>
+    <Name>Riverside Health Care Facilities Inc. - Emo Health Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>145</ID>
+    <Name>Riverside Health Care Facilities Inc. - Rainy River Health Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>584</ID>
+    <Name>Riverside Health Care Facilities Inc. - Rainycrest</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>153</ID>
+    <Name>Rose Of Sharon (Ontario) Retirement Community - </Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>36</ID>
+    <Name>Royal Canadian Legion District 'D' Care Centres - Tony Stacey Centre For Veterans' Care</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>608</ID>
+    <Name>Royal Ottawa Health Care Group - Royal Ottawa Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>535</ID>
+    <Name>Rykka Care Centres Lp - Anson Place Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>521</ID>
+    <Name>Rykka Care Centres Lp - Cooksville Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>38</ID>
+    <Name>Rykka Care Centres Lp - Dundurn Place Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>410</ID>
+    <Name>Rykka Care Centres Lp - Eatonville Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>139</ID>
+    <Name>Rykka Care Centres Lp - Hawthorne Place Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>15</ID>
+    <Name>Rykka Care Centres Lp - Orchard Terrace Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>218</ID>
+    <Name>Rykka Care Centres Lp - Wellington Park Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>181</ID>
+    <Name>S &amp; R Nursing Homes Ltd. - Afton Park Place LTC Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>409</ID>
+    <Name>S &amp; R Nursing Homes Ltd. - Heron Terrace LTC Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>642</ID>
+    <Name>S &amp; R Nursing Homes Ltd. - St. Andrew's Terrace LTC Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>43</ID>
+    <Name>S &amp; R Nursing Homes Ltd. - Trillium Villa Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>49</ID>
+    <Name>S &amp; R Nursing Homes Ltd. - Twin Lakes Terrace LTC Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>611</ID>
+    <Name>Saint Luke's Place</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>266</ID>
+    <Name>Schlegel Villages - Coleman Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>308</ID>
+    <Name>Schlegel Villages - Erin Mills Lodge Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>354</ID>
+    <Name>Schlegel Villages - Fairview Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>3524</ID>
+    <Name>Schlegel Villages - The Village At St. Clair</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>3705</ID>
+    <Name>Schlegel Villages - The Village At University Gates</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>161</ID>
+    <Name>Schlegel Villages - The Village of Aspen Lake</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>88</ID>
+    <Name>Schlegel Villages - The Village of Erin Meadows</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>156</ID>
+    <Name>Schlegel Villages - The Village of Glendale Crossing</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>89</ID>
+    <Name>Schlegel Villages - The Village of Humber Heights</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>598</ID>
+    <Name>Schlegel Villages - The Village of Riverside Glen</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>90</ID>
+    <Name>Schlegel Villages - The Village of Sandalwood Park</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>91</ID>
+    <Name>Schlegel Villages - The Village of Tansley Woods</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>92</ID>
+    <Name>Schlegel Villages - The Village of Taunton Mills</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>93</ID>
+    <Name>Schlegel Villages - The Village of Wentworth Heights</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>122</ID>
+    <Name>Schlegel Villages - The Village of Winston Park</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>620</ID>
+    <Name>Shalom Manor LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>621</ID>
+    <Name>Shalom Village Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>609</ID>
+    <Name>Shanti Enterprises Ltd - Royal Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>371</ID>
+    <Name>Shaparrall Ltd - Garden Court Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>3523</ID>
+    <Name>Sharon Farms &amp; Enterprises Ltd - Earls Court Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>438</ID>
+    <Name>Sharon Farms &amp; Enterprises Ltd - Kensington Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>623</ID>
+    <Name>Shepherd Village Inc. - Shepherd Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>626</ID>
+    <Name>Sherwood Park Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>461</ID>
+    <Name>Sienna Senior Living - Altamont Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>469</ID>
+    <Name>Sienna Senior Living - Barnswallow Place Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>633</ID>
+    <Name>Sienna Senior Living - Bloomington Cove</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>634</ID>
+    <Name>Sienna Senior Living - Bradford Valley Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>472</ID>
+    <Name>Sienna Senior Living - Camilla Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>635</ID>
+    <Name>Sienna Senior Living - Case Manor Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>248</ID>
+    <Name>Sienna Senior Living - Cedarvale Lodge Retirement And Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>466</ID>
+    <Name>Sienna Senior Living - Cheltenham Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>467</ID>
+    <Name>Sienna Senior Living - Creedan Valley Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>470</ID>
+    <Name>Sienna Senior Living - Deerwood Creek Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>468</ID>
+    <Name>Sienna Senior Living - Fieldstone Commons Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>476</ID>
+    <Name>Sienna Senior Living - Fountain View Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>465</ID>
+    <Name>Sienna Senior Living - Fox Ridge Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>636</ID>
+    <Name>Sienna Senior Living - Granite Ridge Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>477</ID>
+    <Name>Sienna Senior Living - Harmony Hills Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>464</ID>
+    <Name>Sienna Senior Living - Hawthorn Woods Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>479</ID>
+    <Name>Sienna Senior Living - Langstaff Square Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>491</ID>
+    <Name>Sienna Senior Living - Madonna Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>463</ID>
+    <Name>Sienna Senior Living - Maple Grove Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>481</ID>
+    <Name>Sienna Senior Living - Midland Gardens Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>473</ID>
+    <Name>Sienna Senior Living - Muskoka Shores Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>474</ID>
+    <Name>Sienna Senior Living - Norfinch Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>462</ID>
+    <Name>Sienna Senior Living - Owen Hill Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>480</ID>
+    <Name>Sienna Senior Living - Rockcliffe Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>478</ID>
+    <Name>Sienna Senior Living - Secord Trails Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>637</ID>
+    <Name>Sienna Senior Living - Silverthorn Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>638</ID>
+    <Name>Sienna Senior Living - Spencer House Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>482</ID>
+    <Name>Sienna Senior Living - St. George Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>483</ID>
+    <Name>Sienna Senior Living - Streetsville Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>40</ID>
+    <Name>Sienna Senior Living - Trillium Retirement And Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>484</ID>
+    <Name>Sienna Senior Living - Tullamore Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>82</ID>
+    <Name>Sienna Senior Living - Villa Leonardo Gambin</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>475</ID>
+    <Name>Sienna Senior Living - Waters Edge Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>471</ID>
+    <Name>Sienna Senior Living - Weston Terrace Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>485</ID>
+    <Name>Sienna Senior Living - Woodbridge Vista Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>632</ID>
+    <Name>Sienna Senior Living - Woodhall Park Care Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>129</ID>
+    <Name>Sienna Senior Living - Woods Park Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>455</ID>
+    <Name>Sifton Properties Ltd, Devonshire Erin Mills Inc. - Lanark Heights LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>488</ID>
+    <Name>Sifton Properties Ltd, Devonshire Erin Mills Inc. - Westmount Gardens LTC Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>429</ID>
+    <Name>Six Nations Of The Grand River - Iroquois Lodge Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>290</ID>
+    <Name>Slovenian Linden Foundation - Dom Lipa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>628</ID>
+    <Name>Smooth Rock Falls Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>617</ID>
+    <Name>Southbridge Care Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>72</ID>
+    <Name>Southbridge Care Homes - Maple View</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>77</ID>
+    <Name>Specialty Care Inc. - Victoria Village Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>640</ID>
+    <Name>Spruce Lodge - Municipal Home For The Aged - Spruce Lodge Home For The Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>641</ID>
+    <Name>Sprucedale Care Centre Inc. - Sprucedale Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>643</ID>
+    <Name>St. Clair O'Connor Community Inc. - St. Clair O'connor Community Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>52</ID>
+    <Name>St. Demetrius Development - Ukrainian Canadian Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>205</ID>
+    <Name>St. Joseph's Care Group - Bethammi Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>418</ID>
+    <Name>St. Joseph's Care Group - Hogarth Riverview Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>2</ID>
+    <Name>St. Joseph's General Hospital Elliot Lake - St. Joseph's Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>528</ID>
+    <Name>St. Joseph's Health Care, London - Mount Hope Centre For LTC - St. Mary's</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>157</ID>
+    <Name>St. Joseph's Health Centre - St. Gabriel's Villa Of Sudbury</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>6</ID>
+    <Name>St. Joseph's Health Centre - St. Joseph's Villa, Sudbury</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>647</ID>
+    <Name>St. Joseph's Health System - Guelph</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>1</ID>
+    <Name>St. Joseph's Health System - St. Joseph's Lifecare Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>5</ID>
+    <Name>St. Joseph's Health System - St. Joseph's Villa, Dundas</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>9</ID>
+    <Name>St. Patrick's Home Of Ottawa Inc. - St. Patrick's Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>10</ID>
+    <Name>St. Peter's Care Centres - St. Peter's Residence At Chedoke</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>616</ID>
+    <Name>Strathcona Long Term Care</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>21</ID>
+    <Name>Sunnycrest Nursing Homes Limited - Sunnycrest Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>615</ID>
+    <Name>Taminagi Inc. - Sarsfield Colonial Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>393</ID>
+    <Name>The Arnprior &amp; District Memorial Hospital - The Grove</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>225</ID>
+    <Name>The Central Canadian District Of The Christian - Cama Woodlands Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>388</ID>
+    <Name>The Corporation of Haldimand County - Grandview Lodge, Dunnville</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>434</ID>
+    <Name>The Corporation of Haldimand County - John Noble Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>545</ID>
+    <Name>The Corporation of Norfolk County - Norview Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>391</ID>
+    <Name>The County of Grey - Grey Gables Home For The Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>460</ID>
+    <Name>The County of Grey - Lee Manor Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>604</ID>
+    <Name>The County of Grey - Rockwood Terrace Home For The Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>375</ID>
+    <Name>The County of SImcoe - Georgian Manor Home For The Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>627</ID>
+    <Name>The County of SImcoe - Simcoe Manor Home For The Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>23</ID>
+    <Name>The County of SImcoe - Sunset Manor Home For Senior Citizens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>42</ID>
+    <Name>The County of SImcoe - Trillium Manor Home For The Aged</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>571</ID>
+    <Name>The District Municipality of Muskoka – The Pines Long Term Care Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>306</ID>
+    <Name>The Elliott Group - The Elliott Community</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>378</ID>
+    <Name>The Glebe Centre Inc. - Glebe Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>430</ID>
+    <Name>The Governing Council of the Salvation Army - Isabel And Arthur Meighen Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>612</ID>
+    <Name>The Governing Council of the Salvation Army - The Salvation Army Ottawa Grace Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>583</ID>
+    <Name>The Governing Council Of The Salvation Army In Canada - R. H. Lawson Eventide Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>437</ID>
+    <Name>The Kensington Health Centre - The Kensington Gardens</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>85</ID>
+    <Name>The Lady Minto Hospital at Cochrane - Villa Minto</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>459</ID>
+    <Name>The Leamington United Mennonite Home and Apartments - Leamington Mennonite Home LTC Residence</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>552</ID>
+    <Name>The Mennonite Home Association As York County - Parkview Home LTC</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>146</ID>
+    <Name>The Meno Ya Win Health Centre - William A. Bill George Extended Care Facility</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>508</ID>
+    <Name>The Ontario Finnish Resthome Association - Mauno Kaihla Koti</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>154</ID>
+    <Name>The Ontario Mission of the Deaf - Bob Rumball Home For The Deaf</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>413</ID>
+    <Name>The Ottawa Jewish Home for the Aged - Hillel Lodge (The Bess And Moe Greenberg Family)</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>186</ID>
+    <Name>The Regional Municipality of Halton - Allendale</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>281</ID>
+    <Name>The Regional Municipality of Halton - Creek Way Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>577</ID>
+    <Name>The Regional Municipality of Halton - Post Inn Village</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>287</ID>
+    <Name>The Regional Municipality of Niagara - Deer Park Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>291</ID>
+    <Name>The Regional Municipality of Niagara - Douglas H. Rapelje Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>377</ID>
+    <Name>The Regional Municipality of Niagara - Gilmore Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>486</ID>
+    <Name>The Regional Municipality of Niagara - Linhaven</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>541</ID>
+    <Name>The Regional Municipality of Niagara - Northland Pointe</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>516</ID>
+    <Name>The Regional Municipality of Niagara - The Meadows Of Dorchester</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>128</ID>
+    <Name>The Regional Municipality of Niagara - The Woodlands Of Sunset</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>55</ID>
+    <Name>The Regional Municipality of Niagara - Upper Canada Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>493</ID>
+    <Name>The Regional Municipality of Peel - Malton Village LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>557</ID>
+    <Name>The Regional Municipality of Peel - Peel Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>624</ID>
+    <Name>The Regional Municipality of Peel - Sheridan Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>26</ID>
+    <Name>The Regional Municipality of Peel - Tall Pines LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>60</ID>
+    <Name>The Regional Municipality of Peel - Vera M. Davis Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>573</ID>
+    <Name>The Regional Municipality of Sudbury - Pioneer Manor</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>16</ID>
+    <Name>The Royal Crest Lifecare Group Inc. - Glen Hill Strathaven</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>506</ID>
+    <Name>The Royal Crest Lifecare Group Inc. - Marnwood Lifecare Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>188</ID>
+    <Name>The Thomas Health Care Corporation - Arbour Creek LTC Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>566</ID>
+    <Name>The Thomas Health Care Corporation - Pine Villa Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>168</ID>
+    <Name>The West Nipissing General Hospital</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>115</ID>
+    <Name>The Wexford Residence Inc. - The Wexford</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>511</ID>
+    <Name>The Women's Christian Association of London - Mccormick Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>200</ID>
+    <Name>Toronto Aged Men's and Women's Homes - Belmont House</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>24</ID>
+    <Name>Toronto Finnish-Canadian Seniors Centre - Suomi-Koti Toronto Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>37</ID>
+    <Name>Township Of Osgoode Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>39</ID>
+    <Name>Trent Valley Lodge Limited - Trent Valley Lodge Ltd.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>390</ID>
+    <Name>Tri-County Mennonite Homes - Greenwood Court</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>534</ID>
+    <Name>Tri-County Mennonite Homes - Nithview Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>50</ID>
+    <Name>Twin Oaks of Maryhill Inc. - Twin Oaks Of Maryhill</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>51</ID>
+    <Name>Tyndall Nursing Home Limited - Tyndall Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>432</ID>
+    <Name>Ukrainian Home for the Aged - Ivan Franko Home (Etobicoke)</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>396</ID>
+    <Name>Unger Nursing Homes Limited - Hampton Terrace Care Centre</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>48</ID>
+    <Name>Unger Nursing Homes Limited - Tufford Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>53</ID>
+    <Name>Unionville Home Society - Union Villa</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>499</ID>
+    <Name>United Counties of Leeds and Grenville - Maple View Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>7</ID>
+    <Name>United Counties of Leeds and Grenville - St. Lawrence Lodge</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>578</ID>
+    <Name>United Counties of Prescott Russell - Residence Prescott Et Russell</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>54</ID>
+    <Name>United Mennonite Home for the Aged - United Mennonite Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>136</ID>
+    <Name>Universal Care - Mackenzie Health LTC Facility</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>56</ID>
+    <Name>Valley Manor Inc. - Valley Manor Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>80</ID>
+    <Name>Villa Colombo Seniors Centre (Vaughn) Inc. - Villa Colombo Seniors Centre (Vaughan)</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>95</ID>
+    <Name>Vision '74 Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>107</ID>
+    <Name>West Lake Terrace</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>450</ID>
+    <Name>West Parry Sound Health Centre - Lakeland LTC Services Corporation</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>117</ID>
+    <Name>Wikwemikong Nursing Home Limited - Wikwemikong Nursing Home</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>118</ID>
+    <Name>Wildwood Care Centre Inc.</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>124</ID>
+    <Name>Woodingford Lodge - Ingersoll</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>125</ID>
+    <Name>Woodingford Lodge - Tillsonburg</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>126</ID>
+    <Name>Woodingford Lodge - Woodstock</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>132</ID>
+    <Name>Yee Hong Centre For Geriatric Care - Markham</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>133</ID>
+    <Name>Yee Hong Centre For Geriatric Care - Mississauga</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>134</ID>
+    <Name>Yee Hong Centre For Geriatric Care - Scarborough Finch</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+  <hospital>
+    <ID>135</ID>
+    <Name>Yee Hong Centre For Geriatric Care - Scarborough McNicoll</Name>
+    <distanceToPostalCode>0</distanceToPostalCode>
+  </hospital>
+</ArrayOfHospital>

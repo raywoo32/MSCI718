@@ -1,0 +1,521 @@
+"LTCH_Num","Date","PHU_Num","PHU","LTC_Home","City","Beds","Total_LTC_Resident_Cases","Total_LTC_Resident_Deaths","Total_LTC_HCW_Cases","homeType","ResCouncil","FamCouncil","Accreditation","Annual_Orders","Annual_Non.compliance","Targeted_Inspect_Num","Targeted_Orders","Targeted_Non.compliance"
+"1013","2021-01-24",2230,"Durham","Sunnycrest Nursing Home","Whitby",136,"0","34","4","For-Profit","Yes","Yes","Yes",0,5,0,2,4
+"1021","2021-03-12",2270,"York Region","River Glen Haven Nursing Home","Sutton West",119,"4","36","4","For-Profit","Yes","Yes","Yes",6,21,0,0,0
+"1023","2020-12-06",2236,"Halton","Wellington Park Care Centre","Burlington",132,"0","0","4","For-Profit","Yes","Yes","Yes",1,5,0,0,1
+"1030","2021-02-23",2244,"Middlesex-London","Middlesex Terrace","Delaware",105,"0","18","0","For-Profit","Yes","Yes","Yes",0,1,0,6,3
+"1033","2021-01-30",2265,"Waterloo","Golden Years Nursing Home","Cambridge",88,"0","4","0","For-Profit","Yes","Yes","No",6,14,0,3,2
+"1041","2021-02-23",3895,"Toronto","Downsview Long Term Care Centre","North York",252,"0","64","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"1049","2021-02-07",4913,"South West","Maple Manor Nursing Home","Tillsonburg",107,"4","20","0","For-Profit","Yes","Yes","Yes",1,10,0,0,0
+"1053","2020-05-25",2233,"Grey-Bruce","Parkview Manor Health Care Centre","Chesley",34,"4","0","0","For-Profit","Yes","Yes","Yes",1,4,0,1,1
+"1056","2021-02-12",2234,"Haldimand-Norfolk","Dover Cliffs","Port Dover",70,"0","0","4","For-Profit","Yes","Yes","Yes",1,7,2,8,5
+"1064","2021-02-07",2268,"Windsor-Essex","Tilbury Manor Nursing Home","Tilbury",75,"0","0","4","For-Profit","Yes","Yes","Yes",2,6,0,0,0
+"1115","2021-03-12",2240,"Chatham-Kent","Copper Terrace","Chatham",138,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,2,5,1
+"1131","2020-12-20",2258,"Eastern Ontario","Parisien Manor","Cornwall",65,"0","0","0","For-Profit","Yes","No","Yes",0,1,0,1,1
+"1133","2020-07-17",3895,"Toronto","Garden Court Nursing Home","Etobicoke",45,"4","10","4","For-Profit","Yes","Yes","No",2,12,0,0,0
+"1135","2021-03-02",5183,"Huron Perth","Seaforth Long Term Care Home","Seaforth",63,"0","5","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"1149","2021-01-18",2268,"Windsor-Essex","Richmond Terrace","Amherstburg",128,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,5,5
+"1160","2021-01-24",2258,"Eastern Ontario","Caressant Care Bourget","Bourget",56,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,0,2
+"1500","2021-01-13",2246,"Niagara","West Park Health Centre","St. Catharines",101,"0","4","4","For-Profit","Yes","Yes","Yes",0,0,1,5,1
+"1856","2020-05-18",2261,"Sudbury","Wikwemikong Nursing Home","Wikwemikong",59,"4","0","0","Non-Profit","Yes","No","Yes",5,22,10,15,6
+"1866","2020-05-30",2246,"Niagara","Kilean Lodge","Grimsby",50,"0","0","4","For-Profit","Yes","Yes","Yes",0,4,0,0,0
+"1975","2021-03-12",5183,"Huron Perth","Hillside Manor","Stratford",90,"0","0","4","For-Profit","Yes","Yes","Yes",0,8,0,0,0
+"2088","2021-03-12",2258,"Eastern Ontario","Heartwood","Cornwall",118,"0","0","4","For-Profit","Yes","Yes","Yes",0,8,0,4,2
+"2113","2020-12-18",2270,"York Region","King City Lodge Nursing Home","King City",36,"4","11","4","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2117","2020-11-03",3895,"Toronto","Extendicare Scarborough","Scarborough",154,"4","14","4","For-Profit","Yes","Yes","Yes",1,5,0,0,0
+"2124","2021-03-03",2253,"Peel","Cooksville Care Centre","Mississauga",192,"0","21","4","For-Profit","Yes","Yes","Yes",1,12,0,0,2
+"2129","2021-01-13",2268,"Windsor-Essex","Iler Lodge","Essex",104,"0","4","4","For-Profit","Yes","Yes","Yes",0,7,2,9,3
+"2131","2020-12-28",3895,"Toronto","Rockcliffe Care Community","Scarborough",204,"0","23","4","For-Profit","Yes","Yes","Yes",2,4,0,0,0
+"2134","2021-03-07",2265,"Waterloo","Derbecker's Heritage House","St. Jacob's",72,"4","0","0","For-Profit","Yes","No","No",0,1,0,0,0
+"2164","2021-03-12",3895,"Toronto","Extendicare Guildwood","Scarborough",169,"0","48","4","For-Profit","Yes","Yes","Yes",1,6,0,0,0
+"2173","2021-02-11",2244,"Middlesex-London","Extendicare London","London",170,"4","4","4","For-Profit","Yes","Yes","Yes",0,0,0,1,1
+"2174","2021-03-12",2270,"York Region","The Willows Estate Nursing Home","Aurora",84,"4","13","4","For-Profit","Yes","No","Yes",3,10,0,0,0
+"2201","2020-12-04",3895,"Toronto","Norwood Nursing Home","Toronto",60,"0","5","0","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2211","2021-03-11",3895,"Toronto","Maynard Nursing Home","Toronto",77,"0","4","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2217","2021-03-12",2242,"Lambton","Trillium Villa Nursing Home","Sarnia",152,"0","0","4","For-Profit","Yes","No","Yes",0,4,0,0,0
+"2240","2021-03-11",2270,"York Region","Eagle Terrace","Newmarket",70,"0","4","4","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2263","2021-02-04",2268,"Windsor-Essex","Banwell Gardens Care Centre","Tecumseh",142,"4","23","0","For-Profit","Yes","Yes","Yes",0,3,0,3,3
+"2301","2021-01-11",2268,"Windsor-Essex","Brouillette Manor","Tecumseh",60,"0","0","4","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2302","2021-03-10",2251,"Ottawa","Extendicare New Orchard Lodge","Ottawa",111,"0","0","0","For-Profit","Yes","No","Yes",0,2,0,5,3
+"2321","2021-02-20",2246,"Niagara","Extendicare St. Catharines","St. Catharines",153,"0","42","5","For-Profit","Yes","Yes","Yes",0,0,0,1,2
+"2358","2021-02-24",2266,"Wellington-Dufferin-Guelph","LaPointe-Fisher Nursing Home","Guelph",92,"0","0","4","For-Profit","Yes","Yes","Yes",2,9,1,3,1
+"2364","2021-03-12",2246,"Niagara","Garden City Manor","St. Catharines",200,"0","25","0","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2408","2021-02-23",2236,"Halton","Maple Villa Long Term Care Centre","Burlington",93,"0","0","4","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2420","2021-01-14",2251,"Ottawa","Carlingview Manor","Ottawa",303,"0","61","4","For-Profit","Yes","Yes","Yes",0,11,3,19,11
+"2439","2021-03-11",2230,"Durham","Extendicare Oshawa","Oshawa",175,"0","0","4","For-Profit","Yes","Yes","Yes",0,5,0,4,5
+"2460","2021-02-02",3895,"Toronto","Extendicare Bayview","North York",205,"4","14","0","For-Profit","Yes","Yes","Yes",0,8,0,0,0
+"2468","2021-01-07",3895,"Toronto","Eatonville Care Centre","Etobicoke",247,"0","42","0","For-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2471","2020-05-06",2265,"Waterloo","Chartwell Elmira Long Term Care Residence","Elmira",48,"4","0","0","For-Profit","Yes","No","Yes",0,0,0,0,0
+"2472","2021-02-25",2253,"Peel","Camilla Care Community","Mississauga",236,"4","68","4","For-Profit","Yes","Yes","Yes",1,10,0,1,2
+"2485","2021-03-02",2251,"Ottawa","Extendicare Starwood","Nepean",192,"0","26","0","For-Profit","Yes","Yes","Yes",0,0,1,9,5
+"2503","2021-02-16",3895,"Toronto","Craiglee Nursing Home","Scarborough",169,"0","29","0","For-Profit","Yes","Yes","Yes",3,21,1,5,5
+"2513","2020-12-29",2233,"Grey-Bruce","Errinrung Long Term Care Home","Thornbury",60,"0","0","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2515","2021-02-09",3895,"Toronto","Elm Grove Living Centre","Toronto",126,"0","19","4","For-Profit","Yes","No","Yes",0,1,0,0,0
+"2534","2021-02-15",2230,"Durham","Thorntonview","Oshawa",154,"0","24","4","For-Profit","Yes","Yes","Yes",0,7,0,0,0
+"2541","2021-02-09",2268,"Windsor-Essex","Berkshire Care Centre","Windsor",231,"4","16","4","For-Profit","Yes","Yes","Yes",0,0,0,19,6
+"2556","2021-02-22",3895,"Toronto","Chartwell Gibson Long Term Care Residence","North York",202,"4","25","0","For-Profit","Yes","No","Yes",0,2,0,0,0
+"2570","2021-01-25",2227,"Brant","Fox Ridge Care Community","Brantford",122,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,2,1
+"2573","2021-01-21",2242,"Lambton","Sumac Lodge","Sarnia",100,"0","0","4","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2575","2021-01-18",3895,"Toronto","Vermont Square","Toronto",130,"4","11","4","For-Profit","Yes","Yes","Yes",0,2,0,1,1
+"2576","2020-12-28",2268,"Windsor-Essex","Country Village Homes - Woodslee","Woodslee",104,"4","18","4","For-Profit","Yes","Yes","Yes",0,2,0,5,2
+"2577","2021-03-07",2236,"Halton","Mount Nemo Christian Nursing Home","Burlington",61,"0","8","0","Non-Profit","Yes","Yes","Yes",3,9,0,0,1
+"2579","2021-03-12",2251,"Ottawa","Extendicare Medex","Ottawa",193,"0","0","4","For-Profit","Yes","No","Yes",1,4,1,6,2
+"2580","2021-01-05",2265,"Waterloo","Trinity Village Care Centre","Kitchener",150,"0","18","0","Non-Profit","Yes","Yes","Yes",2,10,0,4,2
+"2581","2020-12-31",2237,"Hamilton","BayWoods Place","Hamilton",128,"0","4","0","For-Profit","Yes","Yes","Yes",0,1,0,0,3
+"2582","2021-01-17",3895,"Toronto","The Heritage Nursing Home","Toronto",201,"0","0","0","For-Profit","Yes","Yes","Yes",2,6,0,0,0
+"2583","2021-01-25",3895,"Toronto","Chartwell White Eagle Long Term Care Residence","Toronto",56,"0","14","4","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2584","2020-06-22",2260,"Simcoe-Muskoka","Owen Hill Care Community","Barrie",57,"0","12","4","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2585","2020-05-12",2263,"Timiskaming","Northview Nursing Home","Englehart",48,"4","0","0","For-Profit","Yes","No","Yes",2,9,7,6,3
+"2586","2020-11-09",3895,"Toronto","Hawthorne Place Care Centre","North York",269,"0","51","0","For-Profit","Yes","Yes","Yes",1,7,8,31,5
+"2587","2021-02-24",2246,"Niagara","Crescent Park Lodge","Fort Erie",68,"0","14","0","For-Profit","Yes","Yes","Yes",0,6,0,4,3
+"2589","2020-12-23",3895,"Toronto","Main Street Terrace","Toronto",150,"0","8","4","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2590","2021-01-31",2261,"Sudbury","Extendicare Falconbridge","Sudbury",234,"0","0","4","For-Profit","Yes","Yes","Yes",2,7,4,10,7
+"2591","2021-02-15",3895,"Toronto","Cedarvale Terrace","Toronto",218,"4","9","4","For-Profit","Yes","Yes","Yes",0,4,0,2,1
+"2594","2021-02-07",3895,"Toronto","St. George Care Community","Toronto",238,"0","19","4","For-Profit","Yes","Yes","Yes",0,1,0,22,3
+"2595","2021-02-11",2266,"Wellington-Dufferin-Guelph","Caressant Care Harriston","Harriston",89,"0","0","0","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2598","2020-07-16",2247,"North Bay-Parry Sound","Waters Edge Care Community","North Bay",148,"0","0","0","For-Profit","Yes","Yes","Yes",3,12,0,0,2
+"2599","2020-12-29",2233,"Grey-Bruce","The Village Seniors Community","Hanover",70,"0","0","4","For-Profit","Yes","Yes","Yes",3,9,0,0,0
+"2602","2021-03-01",2268,"Windsor-Essex","Franklin Gardens Long Term Care Home","Leamington",120,"4","4","4","For-Profit","Yes","Yes","Yes",0,3,0,2,2
+"2603","2021-02-23",2266,"Wellington-Dufferin-Guelph","Caressant Care Fergus Nursing Home","Fergus",87,"0","0","0","For-Profit","Yes","Yes","Yes",5,15,5,6,2
+"2604","2020-12-06",2261,"Sudbury","Extendicare York","Sudbury",288,"0","0","0","For-Profit","Yes","Yes","Yes",1,19,1,4,3
+"2605","2021-01-26",2230,"Durham","Glen Hill Strathaven","Bowmanville",210,"4","0","4","Non-Profit","Yes","No","Yes",0,0,1,6,4
+"2606","2021-01-12",2265,"Waterloo","peopleCare Hilltop Manor Cambridge","Cambridge",185,"0","0","4","For-Profit","Yes","Yes","Yes",1,7,0,6,4
+"2607","2021-02-09",2246,"Niagara","Niagara Health System, Welland Hospital Site, Extended Care Unit","St. Catharines",115,"0","0","0","Non-Profit","Yes","No","Yes",0,9,0,0,0
+"2610","2021-02-23",2256,"Porcupine","Extendicare Kapuskasing","Kapuskasing",61,"4","16","4","For-Profit","Yes","Yes","Yes",0,7,0,0,1
+"2611","2020-10-25",2270,"York Region","MacKenzie Place","Newmarket",93,"0","15","4","For-Profit","Yes","Yes","Yes",0,4,0,0,0
+"2613","2021-02-16",2230,"Durham","Bon Air Long Term Care Residence","Cannington",55,"0","0","4","For-Profit","Yes","Yes","Yes",0,8,0,0,0
+"2614","2021-02-15",4913,"South West","peopleCare Tavistock","Tavistock",100,"0","10","4","For-Profit","Yes","No","Yes",0,2,0,0,0
+"2615","2021-02-04",2263,"Timiskaming","Extendicare Tri-Town","Haileybury",60,"0","0","4","For-Profit","Yes","Yes","Yes",0,1,0,1,1
+"2616","2020-12-23",2241,"Kingston Frontenac L & A","Extendicare Kingston","Kingston",150,"0","0","0","For-Profit","Yes","Yes","Yes",0,3,0,1,1
+"2618","2021-02-28",2246,"Niagara","Niagara Long Term Care Residence","Niagara-On-The-Lake",124,"0","13","4","For-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2619","2021-03-12",2270,"York Region","Mariann Home","Richmond Hill",64,"0","0","4","Non-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2620","2020-12-20",2249,"Northwestern","Birchwood Terrace","Kenora",96,"0","0","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2621","2021-02-15",2234,"Haldimand-Norfolk","The Norfolk Hospital Nursing Home","Simcoe",80,"0","0","4","Non-Profit","Yes","Yes","Yes",1,11,0,0,0
+"2622","2020-10-29",2244,"Middlesex-London","Craigholme","Ailsa Craig",83,"0","0","4","Non-Profit","Yes","Yes","No",0,3,0,7,2
+"2625","2021-03-12",2230,"Durham","Fosterbrooke","Newcastle",88,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2627","2020-10-19",4913,"South West","Caressant Care on Mary Bucke","St. Thomas",60,"0","0","0","For-Profit","Yes","No","Yes",1,10,1,2,1
+"2628","2020-11-29",4913,"South West","Secord Trails Care Community","Ingersoll",80,"0","0","4","For-Profit","Yes","Yes","Yes",4,9,0,0,0
+"2629","2021-02-22",2230,"Durham","Port Perry Place","Port Perry",107,"4","13","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2630","2021-03-12",2270,"York Region","Chartwell Aurora Long Term Care Residence","Aurora",235,"4","11","4","For-Profit","Yes","Yes","Yes",0,7,0,0,0
+"2631","2021-02-17",3895,"Toronto","The O'Neill Centre","Toronto",162,"4","4","4","For-Profit","Yes","No","Yes",0,7,0,0,0
+"2632","2021-02-08",2244,"Middlesex-London","Chartwell Parkhill Long Term Care Residence","Parkhill",64,"0","0","4","For-Profit","Yes","No","Yes",1,3,0,0,0
+"2633","2020-06-18",2260,"Simcoe-Muskoka","Creedan Valley Care Community","Creemore",95,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2635","2021-02-02",2230,"Durham","ReachView Village","Uxbridge",100,"0","17","4","For-Profit","Yes","Yes","Yes",0,0,2,6,5
+"2637","2020-11-16",2243,"Leeds,Grenville,Lanark","Stoneridge Manor","Carleton Place",60,"0","6","0","For-Profit","Yes","Yes","Yes",0,4,0,0,0
+"2639","2021-02-08",2235,"Haliburton Kawartha Pr","Hope Street Terrace","Port Hope",97,"0","5","4","For-Profit","Yes","No","Yes",0,7,0,7,2
+"2640","2020-12-08",2243,"Leeds,Grenville,Lanark","Sherwood Park Manor","Brockville",107,"4","0","0","Non-Profit","Yes","Yes","No",0,5,0,1,2
+"2641","2021-02-10",2237,"Hamilton","Blackadar Continuing Care Centre","Dundas",80,"4","4","0","For-Profit","Yes","No","No",6,22,0,0,1
+"2642","2021-03-12",2258,"Eastern Ontario","The Palace","Alexandria",70,"4","0","0","For-Profit","Yes","Yes","Yes",0,2,0,1,2
+"2643","2021-03-12",2244,"Middlesex-London","Meadow Park (London)","London",126,"0","4","4","For-Profit","Yes","Yes","Yes",2,5,0,1,2
+"2646","2021-01-12",2257,"Renfrew","Groves Park Lodge","Renfrew",100,"0","0","0","For-Profit","Yes","Yes","Yes",0,0,1,2,1
+"2648","2021-02-16",2253,"Peel","Streetsville Care Community","Mississauga",118,"0","15","4","For-Profit","Yes","Yes","Yes",0,8,1,2,4
+"2649","2021-02-01",3895,"Toronto","Tendercare Living Centre","Scarborough",254,"5","81","4","For-Profit","Yes","No","Yes",3,8,4,15,5
+"2651","2021-02-02",2265,"Waterloo","Cambridge Country Manor","Cambridge",79,"0","16","0","For-Profit","Yes","Yes","Yes",0,2,1,2,4
+"2654","2021-02-22",3895,"Toronto","Kennedy Lodge","Scarborough",289,"4","41","0","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2655","2021-02-25",2244,"Middlesex-London","Chelsey Park","London",247,"0","11","0","For-Profit","Yes","Yes","Yes",0,2,1,15,6
+"2656","2021-02-01",2253,"Peel","Tyndall Nursing Home","Mississauga",151,"0","35","4","For-Profit","Yes","No","Yes",8,20,0,3,3
+"2658","2021-01-11",2230,"Durham","Chartwell Ballycliffe Long Term Care Residence","Ajax",100,"0","32","4","For-Profit","Yes","Yes","Yes",0,4,1,12,6
+"2659","2021-03-12",2242,"Lambton","Vision Nursing Home","Sarnia",146,"0","10","4","Non-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2660","2021-02-22",2234,"Haldimand-Norfolk","Delhi Long Term Care Centre","Delhi",60,"0","0","4","For-Profit","Yes","No","Yes",1,5,3,4,2
+"2661","2021-02-10",2246,"Niagara","Oakwood Park Lodge","Niagara Falls",153,"0","35","0","For-Profit","Yes","No","Yes",0,0,2,12,6
+"2662","2021-01-25",2244,"Middlesex-London","Elmwood Place","London",90,"0","0","4","For-Profit","Yes","Yes","Yes",5,14,0,0,0
+"2663","2021-02-05",3895,"Toronto","Westside","Etobicoke",242,"0","50","0","For-Profit","Yes","Yes","Yes",1,5,4,18,3
+"2664","2021-02-09",5183,"Huron Perth","Caressant Care Listowel Nursing Home","Listowel",52,"0","13","4","For-Profit","Yes","No","Yes",3,7,3,5,3
+"2665","2021-03-12",2251,"Ottawa","Extendicare Laurier Manor","Gloucester",242,"0","26","4","For-Profit","Yes","Yes","Yes",0,11,3,17,7
+"2667","2020-05-31",2261,"Sudbury","Manitoulin Lodge","Gore Bay",62,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2669","2021-02-10",4913,"South West","Extendicare Port Stanley","Port Stanley",60,"0","0","4","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2670","2021-01-19",2263,"Timiskaming","Extendicare Kirkland Lake","Kirkland Lake",100,"0","0","4","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2671","2021-02-10",2243,"Leeds,Grenville,Lanark","Rosebridge Manor","Jasper",78,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,1,1
+"2673","2021-01-22",2242,"Lambton","Fiddick's Nursing Home","Petrolia",128,"0","0","0","For-Profit","Yes","Yes","Yes",0,7,0,0,0
+"2674","2020-09-17",2258,"Eastern Ontario","Dundas Manor Nursing Home","Winchester",98,"0","0","4","Non-Profit","Yes","Yes","Yes",0,7,0,1,1
+"2675","2021-02-23",2257,"Renfrew","Valley Manor Nursing Home","Barry's Bay",90,"0","0","0","Non-Profit","Yes","No","Yes",0,0,0,0,0
+"2678","2020-12-06",2227,"Brant","Brierwood Gardens","Brantford",79,"0","0","0","For-Profit","Yes","Yes","Yes",1,9,0,0,0
+"2680","2021-02-12",2258,"Eastern Ontario","Lancaster Long Term Care Residence","Lancaster",60,"0","14","0","For-Profit","Yes","Yes","Yes",0,8,0,0,0
+"2685","2021-02-07",2240,"Chatham-Kent","Meadow Park Nursing Home (Chatham)","Chatham",99,"0","0","4","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2687","2021-03-04",2262,"Thunder Bay","Bethammi Nursing Home","Thunder Bay",112,"0","0","4","Non-Profit","Yes","Yes","Yes",1,10,0,0,0
+"2690","2020-04-30",2233,"Grey-Bruce","Maple View","Owen Sound",29,"4","0","4","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2691","2021-02-01",2258,"Eastern Ontario","St. Jacques Nursing Home","Embrun",60,"0","0","4","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2692","2020-06-29",2243,"Leeds,Grenville,Lanark","Almonte Country Haven","Almonte",82,"4","29","0","For-Profit","Yes","Yes","Yes",0,5,1,3,4
+"2693","2021-03-10",2230,"Durham","Orchard Villa","Pickering",233,"0","70","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2696","2020-12-24",2260,"Simcoe-Muskoka","Coleman Care Centre","Barrie",112,"0","0","0","For-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2697","2021-03-12",2270,"York Region","Bloomington Cove Care Community","Stouffville",113,"0","0","4","For-Profit","Yes","Yes","Yes",2,11,1,2,2
+"2698","2020-05-18",2263,"Timiskaming","Temiskaming Lodge","Haileybury",83,"4","0","4","For-Profit","Yes","Yes","Yes",2,7,0,0,0
+"2699","2020-11-05",2257,"Renfrew","The Grove, Arnprior and District Nursing Home","Arnprior",61,"0","0","0","Non-Profit","Yes","Yes","Yes",1,6,0,0,0
+"2700","2021-01-20",2237,"Hamilton","Parkview Nursing Centre","Hamilton",126,"0","0","0","For-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2701","2021-01-28",2235,"Haliburton Kawartha Pr","Caressant Care Lindsay Nursing Home","Lindsay",124,"0","0","4","For-Profit","Yes","No","Yes",0,1,0,5,2
+"2702","2021-01-22",2257,"Renfrew","Marianhill Nursing Home","Pembroke",139,"0","0","0","Non-Profit","Yes","Yes","Yes",0,4,0,2,1
+"2705","2020-12-08",2233,"Grey-Bruce","Golden Dawn Nursing Home","Lion's Head",45,"0","0","4","Non-Profit","Yes","Yes","No",1,2,0,0,0
+"2706","2020-12-12",2237,"Hamilton","Hamilton Continuing Care","Hamilton",64,"0","8","0","For-Profit","Yes","No","Yes",NA,NA,NA,NA,NA
+"2707","2021-03-12",2265,"Waterloo","Forest Heights","Kitchener",240,"0","51","4","For-Profit","Yes","Yes","Yes",2,9,0,4,2
+"2709","2021-03-03",2251,"Ottawa","Extendicare West End Villa","Ottawa",242,"0","18","4","For-Profit","Yes","Yes","Yes",0,9,0,3,6
+"2710","2021-03-04",2260,"Simcoe-Muskoka","Sara Vista","Elmvale",60,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2711","2021-02-07",2246,"Niagara","Tufford Nursing Home","St. Catharines",64,"0","11","0","For-Profit","Yes","No","Yes",0,4,0,0,0
+"2712","2021-01-19",2268,"Windsor-Essex","Chateau Park Long Term Care Home","Windsor",59,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2715","2021-02-01",2266,"Wellington-Dufferin-Guelph","Avalon Retirement Centre","Orangeville",137,"0","0","4","For-Profit","Yes","Yes","Yes",2,11,8,13,1
+"2716","2020-10-07",3895,"Toronto","Humber Valley Terrace","Etobicoke (Rexdale)",158,"0","36","4","For-Profit","Yes","Yes","Yes",0,0,0,0,1
+"2717","2021-01-24",2238,"Hastings Prince Edward","Maplewood","Brighton",49,"0","0","4","For-Profit","Yes","Yes","Yes",1,9,0,0,2
+"2719","2020-10-29",3895,"Toronto","St. Clair O'Connor Community Nursing Home","East York",25,"0","8","4","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2720","2020-11-19",2227,"Brant","Hardy Terrace","Brantford",101,"0","0","4","For-Profit","Yes","Yes","Yes",1,10,0,3,4
+"2721","2021-01-20",2237,"Hamilton","Clarion Nursing Home","Stoney Creek",100,"0","0","4","For-Profit","Yes","Yes","Yes",1,6,0,0,2
+"2722","2021-03-12",2255,"Peterborough","Riverview Manor Nursing Home","Peterborough",124,"0","0","4","For-Profit","Yes","Yes","Yes",0,5,1,4,3
+"2723","2021-03-12",3895,"Toronto","Fairview Nursing Home","Toronto",108,"0","14","7","For-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2725","2020-06-29",2233,"Grey-Bruce","Elgin Abbey Nursing Home","Chesley",27,"0","0","4","For-Profit","Yes","No","Yes",0,0,0,0,0
+"2727","2021-01-28",2237,"Hamilton","Morriston Park Nursing Home","Puslinch",28,"0","0","4","For-Profit","Yes","No","No",0,3,0,0,1
+"2728","2020-11-11",2241,"Kingston Frontenac L & A","Helen Henderson Nursing Home","Amherstview",104,"4","0","0","For-Profit","Yes","Yes","Yes",0,3,0,3,3
+"2729","2021-01-25",2244,"Middlesex-London","Kensington Village","London",78,"0","7","4","For-Profit","Yes","Yes","Yes",0,0,0,2,2
+"2730","2021-01-31",4913,"South West","Caressant Care on Bonnie Place","St Thomas",116,"4","4","0","For-Profit","Yes","No","Yes",0,0,0,0,0
+"2731","2021-03-12",2235,"Haliburton-Kawartha PR","Pinecrest Nursing Home (Bobcaygeon)","Bobcaygeon",65,"0","29","4","For-Profit","Yes","Yes","No",7,21,0,0,0
+"2732","2021-02-17",3895,"Toronto","Harold and Grace Baker Centre","Toronto",120,"5","17","4","Non-Profit","Yes","Yes","Yes",1,3,0,0,0
+"2734","2021-01-26",2253,"Peel","Vera M. Davis Community Care Centre","Bolton",64,"0","0","0","Non-Profit","Yes","No","Yes",0,4,0,0,1
+"2735","2020-07-06",2260,"Simcoe-Muskoka","Stayner Care Centre","Stayner",49,"0","0","4","For-Profit","Yes","No","No",0,3,0,0,0
+"2736","2021-03-12",2253,"Peel","Erin Mills Lodge Nursing Home","Mississauga",86,"0","17","4","For-Profit","Yes","Yes","Yes",0,4,2,3,4
+"2737","2021-01-18",2246,"Niagara","Valley Park Lodge","Niagara Falls",65,"0","0","4","For-Profit","Yes","Yes","Yes",0,4,0,0,1
+"2739","2021-01-07",2237,"Hamilton","Dundurn Place Care Centre","Hamilton",201,"0","4","4","For-Profit","Yes","Yes","Yes",3,12,3,22,5
+"2740","2021-01-07",4913,"South West","Chartwell Aylmer Long Term Care Residence","Aylmer",64,"0","0","4","For-Profit","Yes","No","Yes",1,12,0,0,0
+"2741","2021-02-10",2237,"Hamilton","Grace Villa Nursing Home","Hamilton",184,"0","44","4","For-Profit","Yes","No","Yes",3,21,0,3,2
+"2742","2020-05-12",2227,"Brant","Telfer Place","Paris",45,"4","0","0","For-Profit","Yes","Yes","Yes",1,10,0,0,1
+"2743","2021-03-12",2258,"Eastern Ontario","Woodland Villa","Long Sault",111,"0","7","4","For-Profit","Yes","Yes","Yes",0,0,1,4,4
+"2744","2021-02-02",3895,"Toronto","Seniors' Health Centre","North York",192,"0","24","12","Non-Profit","Yes","Yes","Yes",3,13,0,0,0
+"2745","2021-02-16",2253,"Peel","Faith Manor Nursing Home","Brampton",120,"0","28","0","Non-Profit","Yes","Yes","Yes",0,0,0,0,2
+"2746","2021-01-21",2258,"Eastern Ontario","Foyer St-Viateur Nursing Home","Limoges",57,"0","0","0","For-Profit","Yes","Yes","Yes",0,0,0,0,1
+"2748","2021-03-03",2266,"Wellington-Dufferin-Guelph","Caressant Care Arthur Nursing Home","Arthur",80,"4","16","0","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2749","2021-01-26",5183,"Huron Perth","Exeter Villa","Exeter",47,"0","4","0","For-Profit","Yes","No","Yes",0,7,0,0,0
+"2752","2021-02-11",2265,"Waterloo","Twin Oaks of Maryhill","Maryhill",31,"0","0","4","For-Profit","Yes","No","No",0,3,0,0,0
+"2753","2021-02-21",2265,"Waterloo","Riverbend Place","Cambridge",53,"0","0","0","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2754","2020-06-28",3895,"Toronto","Sherbourne Place","Toronto",126,"0","19","4","Non-Profit","Yes","No","Yes",0,4,0,3,2
+"2756","2021-01-14",2249,"Northwestern","Atikokan General Hospital","Atikokan",26,"0","0","4","Non-Profit","No","Yes","Yes",0,7,0,0,0
+"2759","2021-02-01",2251,"Ottawa","Élisabeth-Bruyère Residence","Ottawa",71,"0","15","4","Non-Profit","Yes","Yes","Yes",2,12,1,5,1
+"2760","2021-03-02",2268,"Windsor-Essex","Regency Park Long Term Care Home","Windsor",72,"4","6","0","For-Profit","Yes","Yes","Yes",0,2,0,3,1
+"2762","2021-02-08",2266,"Wellington-Dufferin-Guelph","Shelburne Long Term Care Home","Shelburne",60,"0","18","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2764","2020-12-17",2262,"Thunder Bay","Geraldton District Hospital","Geraldton",19,"0","0","4","Non-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2767","2021-03-12",2266,"Wellington-Dufferin-Guelph","Royal Terrace","Palmerston",67,"0","0","4","For-Profit","Yes","Yes","Yes",1,1,0,0,0
+"2768","2021-02-15",2234,"Haldimand-Norfolk","Cedarwood Village","Simcoe",90,"0","0","0","For-Profit","Yes","Yes","Yes",3,22,5,7,4
+"2769","2020-10-26",2270,"York Region","Cedarvale Lodge Retirement and Care Community","Keswick",60,"0","0","4","For-Profit","Yes","Yes","Yes",1,13,0,0,0
+"2773","2020-08-09",2233,"Grey-Bruce","Trillium Court","Kincardine",40,"0","0","0","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2774","2020-12-21",2236,"Halton","CAMA Woodlands Nursing Home","Burlington",134,"0","0","4","Non-Profit","Yes","Yes","No",1,16,0,3,2
+"2775","2021-02-07",2237,"Hamilton","Shalom Village Nursing Home","Hamilton",127,"0","17","0","Non-Profit","Yes","Yes","Yes",0,2,0,0,1
+"2776","2020-12-29",2237,"Hamilton","Heritage Green Nursing Home","Stoney Creek",167,"4","4","0","Non-Profit","Yes","Yes","Yes",2,15,2,2,2
+"2777","2021-02-20",2266,"Wellington-Dufferin-Guelph","Eden House Nursing Home","Guelph",58,"0","0","4","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2778","2021-02-03",2258,"Eastern Ontario","Sandfield Place","Cornwall",53,"0","0","4","For-Profit","Yes","Yes","Yes",1,14,0,3,3
+"2779","2021-01-07",2227,"Brant","Park Lane Terrace","Paris",132,"0","0","4","For-Profit","Yes","Yes","Yes",3,10,4,9,5
+"2781","2020-05-27",2260,"Simcoe-Muskoka","Collingwood Nursing Home","Collingwood",64,"4","0","0","For-Profit","Yes","Yes","No",0,5,0,0,0
+"2782","2021-03-12",3895,"Toronto","Shepherd Lodge","Toronto",252,"4","10","4","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2783","2021-03-09",2265,"Waterloo","The Village of Winston Park","Kitchener",95,"4","0","0","For-Profit","Yes","No","Yes",0,3,0,0,0
+"2784","2021-02-10",2237,"Hamilton","The Wellington Nursing Home","Hamilton",102,"0","0","4","For-Profit","Yes","Yes","Yes",1,11,0,0,2
+"2786","2020-06-24",2227,"Brant","Anson Place Care Centre","Hagersville",61,"0","23","4","For-Profit","Yes","No","Yes",0,14,0,3,1
+"2787","2021-01-29",2238,"Hastings Prince Edward","Crown Ridge Place","Trenton",122,"0","0","4","For-Profit","Yes","Yes","Yes",0,1,0,0,2
+"2788","2021-01-12",5183,"Huron Perth","Braemar Retirement Centre","Wingham",69,"0","0","4","For-Profit","Yes","No","Yes",1,4,0,0,0
+"2789","2021-03-01",3895,"Toronto","Midland Gardens Care Community","Scarborough",299,"0","43","4","For-Profit","Yes","Yes","Yes",0,0,14,36,12
+"2790","2021-01-21",2241,"Kingston Frontenac L & A","Trillium Retirement and Care Community","Kingston",190,"0","0","0","For-Profit","Yes","Yes","Yes",0,4,0,5,6
+"2792","2020-12-30",3895,"Toronto","Suomi-Koti Toronto Nursing Home","Toronto",34,"0","8","4","Non-Profit","Yes","Yes","No",0,6,0,0,0
+"2794","2021-02-01",3895,"Toronto","Dom Lipa","Etobicoke",66,"0","0","4","Non-Profit","Yes","No","No",1,8,0,0,1
+"2797","2021-02-15",2258,"Eastern Ontario","Pinecrest (Plantagenet)","Plantagenet",60,"0","11","4","For-Profit","Yes","Yes","No",0,3,0,0,1
+"2798","2021-02-02",3895,"Toronto","Hellenic Care for Seniors (Toronto)","Toronto",81,"9","4","4","Non-Profit","Yes","No","Yes",0,0,0,0,0
+"2799","2021-02-21",2246,"Niagara","Pleasant Manor Retirement Village","Virgil",41,"0","4","4","Non-Profit","Yes","No","No",1,10,0,0,1
+"2800","2021-02-16",2258,"Eastern Ontario","Tsiionkwanonhsote","Akwesasne",50,"0","6","0","Non-Profit","Yes","No","Yes",0,13,0,0,0
+"2801","2021-01-14",3895,"Toronto","Yee Hong Centre - Scarborough McNicoll","Scarborough",155,"0","0","4","Non-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2802","2021-01-22",5183,"Huron Perth","Wildwood Care Centre","St. Marys",60,"0","0","4","For-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2803","2021-02-09",2235,"Haliburton Kawartha Pr","Warkworth Place","Warkworth",60,"0","4","4","For-Profit","Yes","No","Yes",NA,NA,NA,NA,NA
+"2804","2021-01-24",3895,"Toronto","Ehatare Nursing Home","Scarborough",32,"4","0","4","Non-Profit","Yes","Yes","No",0,0,0,0,0
+"2805","2021-01-11",2265,"Waterloo","Pinehaven Nursing Home","Waterloo",84,"0","0","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2808","2021-03-11",2270,"York Region","Chartwell Pine Grove Long Term Care Residence","Woodbridge",96,"0","11","4","For-Profit","Yes","Yes","Yes",0,4,0,0,0
+"2809","2021-02-21",3895,"Toronto","Ukrainian Canadian Care Centre","Etobicoke",152,"0","10","4","Non-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2811","2020-12-06",2251,"Ottawa","Glebe Centre","Ottawa",254,"0","4","0","Non-Profit","Yes","Yes","Yes",0,0,0,4,2
+"2815","2021-03-12",2256,"Porcupine","Villa Minto","Cochrane",37,"0","0","4","Non-Profit","Yes","Yes","Yes",3,10,1,4,2
+"2816","2021-01-10",2236,"Halton","Bennett Health Care Centre","Georgetown",66,"0","0","0","Non-Profit","Yes","Yes","Yes",0,6,0,0,0
+"2818","2021-02-28",2251,"Ottawa","Villa Marconi","Ottawa",128,"4","4","0","Non-Profit","Yes","Yes","Yes",0,8,1,3,4
+"2819","2021-02-04",2260,"Simcoe-Muskoka","Muskoka Shores Care Community","Gravenhurst",207,"0","0","4","For-Profit","Yes","Yes","Yes",1,5,0,1,1
+"2821","2021-03-12",2260,"Simcoe-Muskoka","Woods Park Care Centre","Barrie",123,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,2,2
+"2823","2021-03-03",2240,"Chatham-Kent","Fairfield Park","Wallaceburg",103,"0","4","4","For-Profit","Yes","No","No",0,3,0,0,0
+"2824","2021-03-12",3895,"Toronto","The Jewish Home for the Aged","North York",472,"0","9","4","Non-Profit","Yes","Yes","Yes",1,4,1,15,5
+"2825","2021-03-12",2270,"York Region","Mackenzie Health Long Term Care Facility","Richmond Hill",168,"0","4","4","Non-Profit","Yes","Yes","Yes",0,11,0,3,1
+"2826","2020-05-20",2234,"Haldimand-Norfolk","Caressant Care Courtland","Courtland",55,"0","0","4","For-Profit","Yes","No","Yes",0,3,0,0,0
+"2829","2020-05-24",2261,"Sudbury","Finlandia Hoivakoti Nursing Home","Sudbury",112,"0","0","4","For-Profit","Yes","Yes","Yes",0,8,0,0,1
+"2830","2021-01-08",2265,"Waterloo","Barnswallow Place Care Community","Elmira",96,"0","0","0","For-Profit","Yes","No","Yes",0,4,0,0,0
+"2832","2020-12-30",3895,"Toronto","Harmony Hills Care Community","East York",160,"0","11","6","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2833","2021-02-01",2253,"Peel","Chartwell Wenleigh Long Term Care Residence","Mississauga",161,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,8,2
+"2834","2021-03-12",2251,"Ottawa","Forest Hill","Kanata",160,"0","4","4","For-Profit","Yes","Yes","Yes",0,10,0,0,3
+"2835","2021-03-09",2260,"Simcoe-Muskoka","Leacock Care Centre","Orillia",145,"0","0","0","For-Profit","Yes","Yes","Yes",4,10,2,12,2
+"2836","2021-02-11",3895,"Toronto","Fountain View Care Community","East York",158,"4","18","6","For-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2837","2021-02-17",3895,"Toronto","Deerwood Creek Care Community","Etobicoke",160,"0","0","4","For-Profit","Yes","Yes","Yes",2,16,0,2,1
+"2838","2020-12-21",2235,"Haliburton Kawartha Pr","Extendicare Kawartha Lakes","Lindsay",64,"4","0","0","For-Profit","Yes","No","Yes",0,3,1,8,1
+"2839","2021-02-17",2260,"Simcoe-Muskoka","Roberta Place","Barrie",140,"0","70","4","For-Profit","Yes","No","Yes",0,2,0,0,0
+"2841","2021-01-20",2237,"Hamilton","The Village of Wentworth Heights","Hamilton",120,"0","0","0","For-Profit","Yes","Yes","Yes",0,2,1,3,3
+"2842","2020-06-01",2268,"Windsor-Essex","Extendicare Southwood Lakes","Windsor",150,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,3,3
+"2843","2020-05-08",2255,"Peterborough","Extendicare Lakefield","Lakefield",100,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2844","2021-03-12",2237,"Hamilton","The Meadows","Ancaster",128,"0","11","4","For-Profit","Yes","Yes","Yes",0,5,0,0,1
+"2845","2020-11-22",2251,"Ottawa","Longfields Manor","Nepean",114,"4","4","0","For-Profit","Yes","Yes","Yes",0,1,0,0,2
+"2846","2020-06-02",2236,"Halton","Hampton Terrace Care Centre","Burlington",101,"0","0","0","For-Profit","Yes","Yes","Yes",1,12,1,1,1
+"2847","2021-02-11",2253,"Peel","Extendicare Brampton","Brampton",150,"0","4","4","For-Profit","Yes","Yes","Yes",0,8,1,3,3
+"2848","2021-01-20",3895,"Toronto","West Park Long Term Care Centre","Toronto",200,"0","30","4","Non-Profit","Yes","Yes","Yes",0,5,3,23,8
+"2849","2021-01-31",2237,"Hamilton","Ridgeview","Stoney Creek",120,"0","0","4","For-Profit","Yes","Yes","Yes",1,4,0,0,0
+"2850","2021-03-12",2235,"Haliburton-Kawartha PR","Fenelon Court","Fenelon Falls",67,"0","0","4","For-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2851","2021-02-18",2235,"Haliburton Kawartha Pr","Extendicare Cobourg","Cobourg",69,"0","0","4","For-Profit","Yes","Yes","Yes",0,5,0,3,2
+"2852","2021-02-21",3895,"Toronto","The Kensington Gardens","Toronto",350,"0","12","4","Non-Profit","Yes","Yes","Yes",0,4,1,2,3
+"2853","2021-03-12",2237,"Hamilton","Queen's Garden","Hamilton",128,"4","0","4","Non-Profit","Yes","Yes","Yes",7,17,0,0,0
+"2854","2020-10-28",2236,"Halton","The Village of Tansley Woods","Burlington",144,"0","0","0","For-Profit","Yes","Yes","Yes",1,7,1,8,4
+"2855","2021-02-07",2253,"Peel","Villa Forum","Mississauga",160,"0","15","0","Non-Profit","Yes","Yes","Yes",0,4,0,0,0
+"2856","2021-03-01",2265,"Waterloo","Columbia Forest","Waterloo",156,"0","0","0","For-Profit","Yes","Yes","Yes",0,4,0,0,0
+"2857","2021-03-03",2236,"Halton","Burloak","Burlington",144,"0","0","4","For-Profit","Yes","Yes","Yes",0,7,0,0,0
+"2858","2021-03-08",2237,"Hamilton","Extendicare Hamilton","Hamilton",160,"0","0","4","For-Profit","Yes","Yes","Yes",0,8,0,2,3
+"2859","2021-03-12",2253,"Peel","The Village of Sandalwood Park","Brampton",120,"0","0","4","For-Profit","Yes","Yes","Yes",0,6,0,1,3
+"2860","2021-01-25",3895,"Toronto","Labdara Lithuanian Nursing Home","Etobicoke",90,"0","0","4","Non-Profit","Yes","Yes","No",0,5,0,0,0
+"2861","2021-02-12",2237,"Hamilton","Alexander Place","Waterdown",128,"0","4","0","For-Profit","Yes","Yes","Yes",0,6,0,0,0
+"2862","2020-12-13",2236,"Halton","Northridge","Oakville",133,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2863","2021-02-11",2265,"Waterloo","Stirling Heights","Cambridge",110,"0","0","0","For-Profit","Yes","Yes","Yes",0,4,0,1,1
+"2866","2021-02-07",2262,"Thunder Bay","Southbridge Roseview","Thunder Bay",157,"4","23","4","For-Profit","Yes","Yes","Yes",0,0,1,2,2
+"2867","2021-03-03",2251,"Ottawa","Manoir Marochel","Ottawa",64,"0","9","0","For-Profit","Yes","Yes","No",0,0,1,12,6
+"2868","2021-02-24",2261,"Sudbury","Elizabeth Centre","Val Caron",128,"0","0","0","For-Profit","Yes","Yes","Yes",3,11,1,2,1
+"2869","2021-03-12",2270,"York Region","Elginwood","Richmond Hill",124,"4","0","4","For-Profit","Yes","Yes","Yes",0,11,0,0,0
+"2870","2021-03-12",2236,"Halton","West Oak Village","Oakville",133,"0","0","4","For-Profit","Yes","Yes","Yes",1,9,0,5,4
+"2871","2021-03-12",2230,"Durham","Winbourne Park","Ajax",110,"0","4","4","For-Profit","Yes","Yes","Yes",0,10,1,6,6
+"2872","2021-01-10",2242,"Lambton","Afton Park Place Long Term Care Community","Sarnia",128,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,1,2
+"2873","2021-01-28",2251,"Ottawa","The Salvation Army Ottawa Grace Manor","Ottawa",128,"0","0","4","Non-Profit","Yes","Yes","Yes",1,14,2,4,2
+"2874","2021-03-10",3895,"Toronto","Weston Terrace Care Community","Toronto",224,"0","36","4","For-Profit","Yes","Yes","Yes",0,12,1,1,1
+"2876","2021-01-24",2270,"York Region","Yee Hong Centre - Markham","Markham",200,"0","4","4","Non-Profit","Yes","Yes","Yes",0,0,1,5,2
+"2878","2021-02-22",2244,"Middlesex-London","Westmount Gardens Long Term Care Home","London",160,"0","0","4","For-Profit","Yes","Yes","Yes",1,9,0,2,1
+"2879","2021-01-21",2251,"Ottawa","Granite Ridge Care Community","Stittsville",224,"0","0","0","For-Profit","Yes","Yes","Yes",0,2,0,4,2
+"2880","2021-03-10",2265,"Waterloo","Chartwell Westmount Long Term Care Residence","Kitchener",160,"0","19","4","For-Profit","Yes","Yes","Yes",1,2,0,1,1
+"2881","2021-03-12",2253,"Peel","The Village of Erin Meadows","Mississauga",180,"0","20","4","For-Profit","Yes","Yes","Yes",4,13,1,3,3
+"2882","2021-02-11",2251,"Ottawa","Garden Terrace","Kanata",160,"0","0","4","For-Profit","Yes","Yes","Yes",0,11,0,2,4
+"2883","2020-12-28",3895,"Toronto","Extendicare Rouge Valley","Toronto",192,"0","12","4","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2884","2021-03-12",2253,"Peel","Extendicare Mississauga","Mississauga",140,"4","11","4","For-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2885","2021-02-02",2230,"Durham","Chartwell Wynfield Long Term Care Residence","Oshawa",172,"0","0","4","For-Profit","Yes","Yes","Yes",0,11,0,3,2
+"2886","2021-03-01",2251,"Ottawa","Montfort","Ottawa",128,"0","30","0","For-Profit","Yes","Yes","Yes",0,4,0,3,2
+"2887","2021-01-25",2253,"Peel","Hawthorn Woods Care Community","Brampton",160,"0","31","4","For-Profit","Yes","Yes","Yes",1,7,0,0,0
+"2888","2021-03-12",2270,"York Region","Chartwell Woodhaven Long Term Care Residence","Markham",192,"0","13","4","For-Profit","No","Yes","Yes",1,4,2,12,3
+"2889","2021-02-17",2242,"Lambton","Twin Lakes Terrace Long Term Care Community","Sarnia",60,"0","4","0","For-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2890","2021-02-28",2246,"Niagara","Bella Senior Care Residences","Niagara Falls",160,"0","6","0","For-Profit","Yes","Yes","Yes",1,18,10,11,5
+"2891","2021-02-22",2246,"Niagara","Maple Park Lodge","Fort Erie",96,"0","0","0","For-Profit","Yes","Yes","Yes",0,3,0,9,3
+"2892","2021-02-15",2236,"Halton","Extendicare Halton Hills","Georgetown",130,"4","23","4","For-Profit","Yes","Yes","Yes",3,23,0,2,1
+"2894","2021-03-03",2270,"York Region","Sherwood Court Long Term Care Centre","Maple",96,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2895","2021-02-15",2230,"Durham","Bay Ridges","Pickering",124,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,3,2
+"2897","2021-03-12",2270,"York Region","Mon Sheong Richmond Hill Long Term Care Centre","Richmond Hill",192,"0","4","4","Non-Profit","Yes","Yes","No",0,6,0,0,0
+"2898","2021-02-16",2268,"Windsor-Essex","Heron Terrace Long Term Care Community","Windsor",140,"0","25","0","For-Profit","Yes","No","Yes",0,2,0,1,2
+"2899","2021-02-16",3895,"Toronto","Chartwell Trilogy Long Term Care Residence","Scarborough",197,"9","10","4","For-Profit","Yes","Yes","Yes",1,7,0,0,0
+"2900","2021-02-25",2236,"Halton","Chartwell Brant Centre Long Term Care Residence","Burlington",175,"0","4","4","For-Profit","Yes","Yes","Yes",0,11,0,0,0
+"2901","2020-05-04",2238,"Hastings Prince Edward","Belmont Long Term Care Facility","Belleville",128,"12","0","0","For-Profit","Yes","No","Yes",0,8,0,0,1
+"2902","2021-03-12",2230,"Durham","The Village of Taunton Mills","Whitby",120,"0","0","4","For-Profit","Yes","Yes","Yes",0,9,2,14,3
+"2903","2021-02-02",2255,"Peterborough","Centennial Place Long-Term Care Home","Millbrook",128,"4","0","4","For-Profit","Yes","No","Yes",0,2,0,0,1
+"2904","2021-02-04",2268,"Windsor-Essex","Extendicare Tecumseh","Tecumseh",128,"0","13","0","For-Profit","Yes","Yes","Yes",0,4,0,2,2
+"2905","2021-03-12",2260,"Simcoe-Muskoka","Bradford Valley Care Community","Bradford",246,"4","15","4","For-Profit","Yes","Yes","Yes",1,16,0,0,1
+"2906","2021-02-25",3895,"Toronto","Fieldstone Commons Care Community","Scarborough",224,"4","4","4","For-Profit","Yes","Yes","Yes",0,2,1,1,1
+"2907","2021-03-12",2270,"York Region","Langstaff Square Care Community","Richmond Hill",160,"6","0","0","For-Profit","Yes","Yes","Yes",0,6,0,0,0
+"2908","2021-03-12",2236,"Halton","Chartwell Waterford Long Term Care Residence","Oakville",168,"0","15","4","For-Profit","Yes","Yes","Yes",0,4,2,6,3
+"2909","2021-02-12",2246,"Niagara","The Henley House","St. Catharines",160,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,0,3,2
+"2910","2021-02-22",2236,"Halton","Wyndham Manor Long Term Care Centre","Oakville",128,"0","17","4","Non-Profit","Yes","Yes","Yes",0,9,0,0,0
+"2911","2021-02-15",2253,"Peel","Maple Grove Care Community","Brampton",160,"0","4","4","For-Profit","Yes","Yes","Yes",2,5,0,0,1
+"2912","2021-03-12",2253,"Peel","Cawthra Gardens","Mississauga",192,"0","0","4","For-Profit","Yes","Yes","Yes",0,5,2,4,2
+"2913","2021-01-12",2261,"Sudbury","St. Joseph's Villa, Sudbury","Sudbury",128,"0","4","0","Non-Profit","Yes","Yes","Yes",2,10,0,0,0
+"2915","2021-02-25",2266,"Wellington-Dufferin-Guelph","The Village of Riverside Glen","Guelph",192,"4","10","4","For-Profit","Yes","Yes","Yes",0,0,0,0,1
+"2916","2021-02-28",2235,"Haliburton Kawartha Pr","Caressant Care on McLaughlin Road","Lindsay",96,"4","16","4","For-Profit","Yes","Yes","Yes",0,0,0,2,4
+"2917","2021-02-23",2265,"Waterloo","Lanark Heights Long Term Care Centre","Kitchener",160,"0","0","4","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2918","2021-02-01",3895,"Toronto","Norfinch Care Community","North York",160,"4","0","4","For-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2919","2020-11-08",2244,"Middlesex-London","Chartwell London Long Term Care Residence","London",95,"0","0","0","For-Profit","Yes","No","Yes",0,2,0,0,0
+"2920","2021-03-12",2253,"Peel","Yee Hong Centre - Mississauga","Mississauga",200,"9","4","4","Non-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2921","2021-02-10",2237,"Hamilton","Chartwell Willowgrove Long Term Care Residence","Ancaster",169,"0","19","4","For-Profit","Yes","Yes","Yes",4,17,0,1,2
+"2922","2021-01-14",2237,"Hamilton","Regina Gardens","Hamilton",128,"0","0","4","Non-Profit","Yes","Yes","Yes",0,6,0,0,2
+"2923","2021-03-12",2262,"Thunder Bay","Hogarth Riverview Manor","Thunder Bay",543,"0","0","4","Non-Profit","Yes","Yes","Yes",0,0,15,49,11
+"2924","2021-02-03",2270,"York Region","Markhaven","Markham",96,"0","17","4","Non-Profit","No","Yes","No",0,19,0,0,0
+"2926","2021-03-12",2265,"Waterloo","St. Andrew's Terrace Long Term Care Community","Cambridge",128,"0","0","4","For-Profit","Yes","Yes","Yes",3,7,0,0,0
+"2927","2021-02-16",2237,"Hamilton","St. Peter's Residence at Chedoke","Hamilton",221,"0","0","4","Non-Profit","Yes","Yes","Yes",1,15,0,0,0
+"2928","2021-03-12",2253,"Peel","Woodhall Park Care Community","Brampton",147,"4","11","0","For-Profit","Yes","Yes","Yes",2,6,0,2,1
+"2929","2020-11-26",3895,"Toronto","Lakeside Long Term Care Centre","Toronto",128,"4","6","0","Non-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2930","2021-01-20",2237,"Hamilton","Arbour Creek Long-Term Care Centre","Hamilton",129,"0","0","4","For-Profit","Yes","No","No",NA,NA,NA,NA,NA
+"2931","2021-01-25",2237,"Hamilton","Idlewyld Manor","Hamilton",192,"0","4","4","Non-Profit","Yes","Yes","Yes",0,0,1,1,1
+"2933","2021-01-19",2251,"Ottawa","Royal Ottawa Place","Ottawa",64,"0","0","4","Non-Profit","Yes","Yes","Yes",0,8,0,0,0
+"2934","2021-01-14",3895,"Toronto","Yee Hong Centre - Scarborough Finch","Scarborough",250,"4","0","0","Non-Profit","Yes","Yes","Yes",0,6,0,0,0
+"2935","2020-05-14",2255,"Peterborough","St. Joseph's at Fleming","Peterborough",200,"4","0","4","Non-Profit","Yes","Yes","Yes",0,3,0,0,2
+"2936","2021-02-25",2226,"Algoma","F.J. Davey Home","Sault Ste. Marie",374,"0","0","0","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2936","2021-02-25",2226,"Algoma","F.J. Davey Home","Sault Ste. Marie",374,"0","0","0","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2936","2020-09-30",2226,"Algoma","F. J. Davey Home","Sault Ste. Marie",374,"0","0","4","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2936","2020-09-30",2226,"Algoma","F. J. Davey Home","Sault Ste. Marie",374,"0","0","4","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2936","2021-02-25",2226,"Algoma","F.J. Davey Home","Sault Ste. Marie",374,"0","0","0","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2936","2021-02-25",2226,"Algoma","F.J. Davey Home","Sault Ste. Marie",374,"0","0","0","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2936","2020-09-30",2226,"Algoma","F. J. Davey Home","Sault Ste. Marie",374,"0","0","4","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2936","2020-09-30",2226,"Algoma","F. J. Davey Home","Sault Ste. Marie",374,"0","0","4","Non-Profit","Yes","Yes","Yes",0,12,0,0,0
+"2937","2021-02-25",3895,"Toronto","Copernicus Lodge","Toronto",228,"4","22","4","Non-Profit","Yes","Yes","No",1,4,0,3,2
+"2938","2021-01-31",2236,"Halton","Billings Court Manor","Burlington",160,"0","4","4","For-Profit","Yes","Yes","Yes",2,15,0,0,0
+"2939","2021-01-26",2268,"Windsor-Essex","Chartwell Royal Oak Long Term Care Residence","Kingsville",160,"0","0","0","For-Profit","Yes","Yes","Yes",0,2,0,1,1
+"2940","2021-02-28",2256,"Porcupine","Foyer Des Pionniers","Hearst",67,"0","0","4","Non-Profit","Yes","Yes","No",0,7,0,0,0
+"2941","2021-02-22",3895,"Toronto","Hellenic Home - Scarborough","Scarborough",128,"4","21","0","Non-Profit","Yes","Yes","Yes",2,6,0,1,1
+"2942","2021-03-08",2253,"Peel","Grace Manor","Brampton",120,"4","12","0","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2943","2020-06-03",3895,"Toronto","Chartwell Westbury Long Term Care Residence","Etobicoke",187,"4","22","26","For-Profit","Yes","Yes","Yes",0,7,0,0,0
+"2944","2021-03-10",3895,"Toronto","Mon Sheong Scarborough Long Term Care Centre","Scarborough",160,"5","4","5","Non-Profit","Yes","Yes","No",0,3,2,6,1
+"2945","2021-03-01",2270,"York Region","Woodbridge Vista Care Community","Woodbridge",224,"0","31","0","For-Profit","Yes","Yes","Yes",0,4,0,0,0
+"2947","2021-02-11",2270,"York Region","Villa Leonardo Gambin","Woodbridge",168,"0","27","4","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2948","2021-02-10",2246,"Niagara","Millennium Trail Manor","Niagara Falls",160,"0","25","0","For-Profit","Yes","Yes","Yes",1,7,0,0,1
+"2950","2021-03-10",2260,"Simcoe-Muskoka","Grove Park Home For Senior Citizens","Barrie",143,"0","0","0","Non-Profit","Yes","No","Yes",3,7,0,6,2
+"2951","2021-02-12",2246,"Niagara","United Mennonite Home","Vineland",128,"0","0","4","Non-Profit","Yes","Yes","No",0,4,1,1,3
+"2952","2021-03-12",2265,"Waterloo","Parkwood Mennonite Home","Waterloo",96,"0","0","4","Non-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2953","2021-02-12",2253,"Peel","Burton Manor","Brampton",128,"4","23","4","For-Profit","Yes","Yes","Yes",1,13,0,0,0
+"2954","2021-01-18",3895,"Toronto","Valleyview Residence","North York",174,"0","5","0","Non-Profit","Yes","No","No",0,2,1,7,1
+"2955","2021-03-12",2270,"York Region","Southlake Residential Care Village","Newmarket",224,"4","0","4","Non-Profit","Yes","Yes","Yes",0,3,0,0,1
+"2956","2021-03-12",2253,"Peel","Silverthorn Care Community","Mississauga",160,"0","0","4","For-Profit","Yes","Yes","Yes",0,4,1,3,3
+"2957","2021-03-12",3895,"Toronto","The Village of Humber Heights","Etobicoke",192,"4","27","4","For-Profit","Yes","No","Yes",0,5,1,4,2
+"2958","2021-01-13",2247,"North Bay-Parry Sound","Lakeland Long Term Care Services","Parry Sound",90,"0","0","4","Non-Profit","Yes","No","No",0,0,0,0,0
+"2959","2020-06-15",3895,"Toronto","Wellesley Central Place","Toronto",150,"4","18","6","Non-Profit","Yes","Yes","Yes",0,5,0,0,0
+"2960","2021-02-25",2246,"Niagara","Heidehof Long Term Care Home","St. Catharines",106,"0","16","0","Non-Profit","Yes","No","No",0,2,0,1,1
+"2961","2021-01-25",2234,"Haldimand-Norfolk","Gardenview Long Term Care Home","Townsend",64,"0","0","4","Non-Profit","Yes","Yes","No",0,4,0,0,2
+"2962","2021-01-02",2262,"Thunder Bay","Southbridge Pinewood","Thunder Bay",128,"0","0","4","For-Profit","Yes","Yes","Yes",0,7,1,2,1
+"2963","2021-02-01",2234,"Haldimand-Norfolk","Edgewater Gardens Long Term Care Centre","Dunnville",64,"0","0","4","Non-Profit","Yes","Yes","Yes",5,14,1,10,2
+"2964","2021-01-11",2244,"Middlesex-London","McGarrell Place","London",157,"0","0","4","For-Profit","Yes","Yes","Yes",0,7,0,0,0
+"2965","2020-12-24",2244,"Middlesex-London","McCormick Home","London",160,"4","0","0","Non-Profit","Yes","Yes","Yes",0,1,0,5,2
+"2968","2021-03-12",2270,"York Region","Parkview Home Long-Term Care","Stouffville",128,"4","4","0","Non-Profit","Yes","Yes","Yes",0,3,0,0,0
+"2969","2021-02-17",2270,"York Region","Villa Colombo Seniors Centre (Vaughan)","Vaughan",160,"0","26","0","Non-Profit","Yes","Yes","Yes",1,4,2,7,6
+"2970","2020-07-08",3895,"Toronto","Chester Village","Toronto",203,"0","0","4","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"2972","2021-01-05",2268,"Windsor-Essex","Riverside Place","Windsor",96,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,0,0
+"2974","2021-03-12",2251,"Ottawa","Madonna Care Community","Orleans",160,"0","46","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2975","2021-01-06",2237,"Hamilton","St. Joseph's Villa, Dundas","Dundas",425,"0","8","4","Non-Profit","Yes","Yes","Yes",6,29,3,10,5
+"2976","2021-03-12",2227,"Brant","St. Joseph's Lifecare Centre","Brantford",205,"0","0","4","Non-Profit","Yes","Yes","No",6,26,0,0,1
+"2977","2021-01-25",2238,"Hastings Prince Edward","Moira Place Long-Term Care Home","Tweed",128,"4","0","4","For-Profit","Yes","Yes","Yes",0,0,0,4,5
+"2979","2021-03-12",2244,"Middlesex-London","The Village of Glendale Crossing","London",192,"0","0","4","For-Profit","No","No","Yes",4,15,2,32,5
+"2980","2021-03-04",2244,"Middlesex-London","peopleCare Oakcrossing London","London",160,"0","0","4","For-Profit","Yes","Yes","Yes",0,1,0,0,0
+"2981","2021-03-12",2260,"Simcoe-Muskoka","Mill Creek Care Centre","Barrie",160,"0","0","4","Non-Profit","Yes","Yes","Yes",3,5,3,11,3
+"2983","2021-03-12",2246,"Niagara","Albright Gardens Homes, Incorporated","Beamsville",231,"0","4","4","Non-Profit","Yes","Yes","No",5,22,1,2,2
+"2985","2020-05-11",3895,"Toronto","Belmont House","Toronto",140,"0","0","4","Non-Profit","Yes","Yes","Yes",1,5,0,0,0
+"2986","2021-03-12",2270,"York Region","Bethany Lodge","Markham",128,"0","4","4","Non-Profit","Yes","Yes","No",1,10,0,0,0
+"2987","2020-05-13",5183,"Huron Perth","Blue Water Rest Home","Zurich",65,"4","0","0","Non-Profit","Yes","No","No",0,7,0,0,0
+"2988","2021-02-16",2258,"Eastern Ontario","Centre d'Accueil Roger Seguin","Clarence Creek",113,"0","0","4","Non-Profit","Yes","Yes","No",1,16,0,0,0
+"2990","2021-01-10",2265,"Waterloo","peopleCare A.R. Goudie Kitchener","Kitchener",80,"0","9","0","Non-Profit","Yes","Yes","Yes",0,1,0,1,2
+"2991","2021-02-08",2246,"Niagara","R. H. Lawson Eventide Home","Niagara Falls",101,"4","0","4","Non-Profit","Yes","Yes","No",0,9,0,2,1
+"2992","2020-12-29",2265,"Waterloo","Fairview Mennonite Home","Cambridge",84,"0","0","4","Non-Profit","Yes","Yes","Yes",0,0,1,3,2
+"2993","2021-01-31",2260,"Simcoe-Muskoka","IOOF Seniors Home","Barrie",182,"0","0","0","Non-Profit","Yes","Yes","No",1,2,0,2,1
+"2995","2021-01-31",3895,"Toronto","Ivan Franko Home (Etobicoke)","Toronto",85,"8","0","9","Non-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"2996","2021-01-04",5183,"Huron Perth","Knollcrest Lodge","Milverton",78,"0","0","4","Non-Profit","Yes","Yes","No",0,4,0,0,0
+"2997","2021-01-27",2270,"York Region","Kristus Darzs Latvian Home","Woodbridge",100,"0","13","0","Non-Profit","Yes","No","No",0,0,0,0,0
+"3000","2021-03-12",2258,"Eastern Ontario","Maxville Manor","Maxville",122,"0","0","4","Non-Profit","Yes","Yes","No",0,6,0,0,0
+"3001","2021-03-12",3895,"Toronto","Tony Stacey Centre for Veterans' Care","Toronto",100,"0","20","4","Non-Profit","Yes","No","No",1,9,0,0,0
+"3002","2020-06-14",3895,"Toronto","Mon Sheong Home for the Aged","Toronto",105,"21","33","4","Non-Profit","Yes","Yes","No",0,3,0,0,0
+"3003","2021-02-02",3895,"Toronto","Nisbet Lodge","Toronto",103,"0","9","0","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"3004","2021-01-08",2265,"Waterloo","Nithview Home","New Hamburg",97,"0","0","4","Non-Profit","Yes","Yes","No",0,0,0,0,1
+"3005","2020-04-26",2241,"Kingston Frontenac L & A","Providence Manor","Kingston",243,"4","0","0","Non-Profit","Yes","Yes","Yes",1,8,0,7,9
+"3006","2020-05-08",3895,"Toronto","Providence Healthcare","Scarborough",288,"10","4","7","Non-Profit","Yes","Yes","Yes",0,3,5,21,8
+"3009","2021-01-27",2246,"Niagara","Shalom Manor Long Term Care Home","Grimsby",144,"0","0","4","Non-Profit","Yes","Yes","No",0,7,0,0,0
+"3011","2021-03-08",2266,"Wellington-Dufferin-Guelph","St. Joseph's Health Centre, Guelph","Guelph",240,"0","0","4","Non-Profit","Yes","Yes","Yes",0,3,0,3,1
+"3012","2021-01-12",2258,"Eastern Ontario","St. Joseph's Continuing Care Centre","Cornwall",150,"0","0","0","Non-Profit","Yes","Yes","Yes",0,10,0,3,3
+"3013","2021-02-18",2251,"Ottawa","Residence Saint-Louis","Ottawa",198,"0","9","4","Non-Profit","Yes","Yes","Yes",6,26,2,6,2
+"3014","2021-02-25",2265,"Waterloo","Saint Luke's Place","Cambridge",114,"0","4","4","Non-Profit","Yes","Yes","Yes",0,0,0,1,1
+"3015","2021-02-10",2251,"Ottawa","St. Patrick's Home","Ottawa",288,"0","4","0","Non-Profit","Yes","Yes","Yes",0,0,1,11,7
+"3016","2021-02-15",2246,"Niagara","Mennonite Brethren Senior Citizens Home","St. Catharines",128,"0","14","0","Non-Profit","Yes","Yes","No",0,7,0,0,0
+"3017","2020-05-31",3895,"Toronto","Thompson House","North York",136,"0","0","4","Non-Profit","Yes","Yes","No",0,2,0,0,0
+"3018","2021-03-12",2270,"York Region","Union Villa","Unionville",160,"0","0","4","Non-Profit","Yes","Yes","Yes",0,2,0,0,0
+"3020","2021-01-12",3895,"Toronto","Villa Colombo Homes for the Aged","Toronto",391,"4","34","8","Non-Profit","Yes","Yes","Yes",1,5,2,6,4
+"3021","2021-03-07",3895,"Toronto","The Wexford","Scarborough",166,"4","8","4","Non-Profit","Yes","Yes","Yes",0,0,0,0,0
+"3023","2021-01-30",5183,"Huron Perth","Greenwood Court","Stratford",45,"0","4","4","Non-Profit","Yes","No","No",0,0,0,0,1
+"3025","2021-01-31",2251,"Ottawa","The Perley and Rideau Veterans' Health Centre","Ottawa",450,"0","13","4","Non-Profit","Yes","Yes","Yes",0,0,1,3,3
+"3026","2021-03-04",2244,"Middlesex-London","Mount Hope Centre for Long Term Care","London",394,"0","5","0","Non-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"3028","2020-07-23",2256,"Porcupine","South Centennial Manor","Iroquois Falls",69,"0","0","4","Non-Profit","Yes","Yes","Yes",0,3,0,4,3
+"3029","2021-01-24",2251,"Ottawa","Hillel Lodge","Ottawa",121,"0","0","4","Non-Profit","Yes","Yes","Yes",0,5,0,0,0
+"3031","2020-06-08",3895,"Toronto","Isabel and Arthur Meighen Manor","Toronto",168,"0","48","0","Non-Profit","Yes","Yes","Yes",0,3,1,2,2
+"3033","2021-02-28",2249,"Northwestern","Rainycrest","Fort Frances",164,"0","0","4","Non-Profit","Yes","Yes","Yes",3,6,9,20,7
+"3034","2021-02-17",3895,"Toronto","Ina Grafton Gage Home","Scarborough",128,"0","31","4","Non-Profit","No","Yes","Yes",0,9,0,6,3
+"3035","2021-01-26",2268,"Windsor-Essex","Leamington Mennonite Home Long Term Care Residence","Leamington",84,"0","0","4","Non-Profit","Yes","Yes","No",0,0,0,0,0
+"3037","2021-02-07",2268,"Windsor-Essex","The Village of Aspen Lake","Windsor",192,"0","11","4","For-Profit","Yes","Yes","Yes",1,5,0,1,1
+"3039","2020-05-18",2261,"Sudbury","St. Gabriel's Villa of Sudbury","Chelmsford",128,"0","0","4","Non-Profit","Yes","Yes","Yes",3,7,0,0,1
+"3042","2021-01-12",2244,"Middlesex-London","Oneida Nation of the Thames Long-Term Care Home (Tsi' Nu: yoyantle' Na' Tuhuwatisni)","Southwold",64,"4","0","4","Non-Profit","Yes","Yes","No",0,0,0,0,0
+"3043","2021-01-12",2226,"Algoma","Extendicare Maple View of Sault Ste. Marie","Sault Ste. Marie",256,"0","0","0","For-Profit","Yes","Yes","Yes",2,8,6,14,3
+"3044","2020-07-21",2256,"Porcupine","Extendicare Timmins","Timmins",180,"0","0","4","For-Profit","Yes","Yes","Yes",2,21,0,0,0
+"3045","2021-02-16",2244,"Middlesex-London","Henley Place","London",192,"0","0","4","For-Profit","Yes","Yes","Yes",0,2,0,0,1
+"3046","2021-02-24",2268,"Windsor-Essex","The Village at St. Clair","Windsor",256,"0","63","0","For-Profit","No","No","No",0,4,2,8,3
+"3047","2021-01-14",2244,"Middlesex-London","Earls Court Village","London",128,"0","0","4","For-Profit","Yes","Yes","Yes",0,0,9,26,9
+"3048","2021-03-12",2265,"Waterloo","The Village at University Gates","Waterloo",192,"0","0","0","For-Profit","No","No","No",1,3,0,0,1
+"3049","2021-01-28",2246,"Niagara","Royal Rose Place","Welland",96,"0","20","0","For-Profit","No","No","No",0,3,1,3,1
+"3050","2021-03-12",2235,"Haliburton-Kawartha PR","Hyland Crest","Minden",62,"0","0","0","Municipal","Yes","Yes","Yes",0,0,0,0,0
+"3051","2021-01-25",2266,"Wellington-Dufferin-Guelph","Strathcona Long Term Care","Mount Forest",87,"0","0","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"3052","2020-10-20",2247,"North Bay-Parry Sound","Algonquin Nursing Home","Mattawa",73,"4","0","4","Non-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"7086","2021-01-20",3895,"Toronto","McCall Centre Long Term Care Interim Unit","Etobicoke",21,"0","4","0","Non-Profit","Yes","No","Yes",0,5,0,0,0
+"901","2021-02-15",2253,"Peel","King Nursing Home","Bolton",86,"0","5","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"907","2021-02-01",2244,"Middlesex-London","Country Terrace","Komoka",120,"0","25","0","For-Profit","Yes","No","Yes",NA,NA,NA,NA,NA
+"909","2020-12-10",3895,"Toronto","North Park Nursing Home","North York",75,"0","17","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"922","2021-02-23",3895,"Toronto","Cheltenham Care Community","North York",170,"4","4","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"925","2020-12-29",2258,"Eastern Ontario","Champlain Long Term Care Residence","L'Orignal",60,"0","0","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"943","2021-03-12",2251,"Ottawa","Sarsfield Colonial Home","Sarsfield",46,"0","4","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"956","2020-06-11",3895,"Toronto","Altamont Care Community","Scarborough",159,"4","53","18","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"958","2020-12-23",2235,"Haliburton Kawartha Pr","Case Manor Care Community","Bobcaygeon",96,"0","0","4","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"962","2021-03-12",2243,"Leeds, Grenville, Lanark","Perth Community Care Centre","Perth",121,"4","0","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"963","2021-02-15",2253,"Peel","Tullamore Care Community","Brampton",159,"0","11","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"965","2020-06-02",5183,"Huron Perth","Maitland Manor","Goderich",91,"4","0","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"995","2021-02-11",5183,"Huron Perth","The Fordwich Village Nursing Home","Fordwich",33,"0","0","0","For-Profit","Yes","Yes","Yes",NA,NA,NA,NA,NA
+"M503","2020-07-15",2247,"North Bay-Parry Sound","Belvedere Heights","Parry Sound",101,"0","0","0","Municipal","Yes","Yes","Yes",1,7,1,10,4
+"M504","2021-03-12",3895,"Toronto","Bendale Acres","Scarborough",302,"4","4","9","Municipal","Yes","Yes","Yes",0,8,0,0,0
+"M506","2020-05-14",2257,"Renfrew","Bonnechere Manor","Renfrew",180,"0","0","4","Municipal","Yes","Yes","Yes",0,8,0,0,0
+"M507","2021-03-12",2233,"Grey-Bruce","Brucelea Haven Long Term Care Home - Corporation of the County of Bruce","Walkerton",144,"0","0","4","Municipal","Yes","No","No",5,21,0,0,0
+"M508","2021-01-13",2251,"Ottawa","Carleton Lodge","Nepean",161,"0","0","4","Municipal","Yes","Yes","Yes",0,8,0,3,4
+"M509","2021-03-05",2247,"North Bay-Parry Sound","Cassellholme","North Bay",240,"0","0","4","Municipal","Yes","Yes","Yes",0,0,0,0,0
+"M510","2021-02-16",3895,"Toronto","Castleview Wychwood Towers","Toronto",456,"0","4","4","Municipal","Yes","Yes","Yes",0,2,0,8,2
+"M511","2021-03-03",2251,"Ottawa","Centre d'Accueil Champlain","Vanier",160,"0","4","0","Municipal","Yes","Yes","Yes",1,19,2,23,7
+"M512","2021-02-18",3895,"Toronto","Cummer Lodge","North York",391,"6","4","4","Municipal","Yes","Yes","Yes",0,0,0,0,0
+"M514","2021-03-12",2244,"Middlesex-London","Dearness Home for Senior Citizens","London",243,"4","0","0","Municipal","Yes","Yes","Yes",0,3,0,1,1
+"M515","2021-02-15",2246,"Niagara","The Meadows of Dorchester","Niagara Falls",121,"0","4","0","Municipal","Yes","Yes","Yes",0,2,0,0,0
+"M516","2020-12-14",2266,"Wellington-Dufferin-Guelph","Dufferin Oaks","Shelburne",160,"0","0","4","Municipal","Yes","Yes","No",0,8,0,0,0
+"M517","2021-01-18",2247,"North Bay-Parry Sound","Eastholme Home for the Aged","Powassan",128,"0","0","4","Municipal","Yes","Yes","No",0,2,0,5,2
+"M518","2021-02-02",4913,"South West","Elgin Manor","St. Thomas",90,"0","0","4","Municipal","Yes","Yes","No",0,3,0,0,0
+"M520","2020-12-28",2255,"Peterborough","Fairhaven","Peterborough",256,"0","4","4","Municipal","Yes","Yes","Yes",0,5,0,2,2
+"M521","2021-01-11",2241,"Kingston Frontenac L & A","Fairmount Home for the Aged","Glenburnie",128,"0","0","0","Municipal","Yes","No","Yes",0,3,0,1,2
+"M522","2021-02-23",2230,"Durham","Fairview Lodge","Whitby",198,"0","0","4","Municipal","Yes","Yes","Yes",2,13,0,7,5
+"M524","2020-12-24",3895,"Toronto","Fudger House","Toronto",250,"0","13","4","Municipal","Yes","Yes","Yes",0,8,1,1,1
+"M526","2020-04-27",2233,"Grey-Bruce","Gateway Haven Long Term Care Home","Wiarton",100,"0","0","4","Municipal","Yes","Yes","No",2,8,0,0,0
+"M527","2021-02-18",2260,"Simcoe-Muskoka","Georgian Manor Home for the Aged","Penetanguishene",143,"0","0","0","Municipal","Yes","Yes","Yes",1,9,0,2,1
+"M528","2021-02-14",2246,"Niagara","Gilmore Lodge","Fort Erie",80,"0","9","4","Municipal","Yes","Yes","Yes",0,2,0,0,0
+"M529","2021-03-10",2258,"Eastern Ontario","Glen-Stor-Dun Lodge","Cornwall",132,"0","4","0","Municipal","Yes","Yes","Yes",0,3,0,0,1
+"M530","2020-05-19",2256,"Porcupine","Golden Manor","Timmins",177,"4","0","0","Municipal","Yes","Yes","Yes",0,8,0,0,0
+"M531","2021-02-07",2235,"Haliburton Kawartha Pr","Golden Plough Lodge","Cobourg",151,"0","0","4","Municipal","Yes","Yes","Yes",0,0,1,10,6
+"M532","2021-03-03",2234,"Haldimand-Norfolk","Grandview Lodge / Dunnville","Dunnville",128,"0","0","4","Municipal","Yes","Yes","Yes",1,8,0,8,5
+"M534","2021-03-12",2270,"York Region","York Region Newmarket Health Centre","Newmarket",132,"4","4","4","Municipal","Yes","Yes","Yes",2,8,0,0,1
+"M536","2021-03-03",2236,"Halton","Allendale","Milton",200,"0","27","4","Municipal","Yes","Yes","Yes",1,8,0,0,0
+"M538","2021-02-03",2238,"Hastings Prince Edward","Hastings Manor Home for the Aged","Belleville",253,"0","4","4","Municipal","Yes","Yes","Yes",0,12,0,6,9
+"M539","2021-03-12",2230,"Durham","Hillsdale Estates","Oshawa",300,"0","0","4","Municipal","Yes","Yes","Yes",0,0,2,10,2
+"M544","2021-03-10",2227,"Brant","John Noble Home","Brantford",156,"0","0","4","Municipal","Yes","Yes","Yes",0,9,0,0,0
+"M545","2021-02-09",3895,"Toronto","Kipling Acres","Etobicoke",337,"0","16","5","Municipal","Yes","Yes","Yes",0,9,1,4,2
+"M546","2021-03-12",2230,"Durham","Lakeview Manor","Beaverton",149,"0","0","4","Municipal","Yes","Yes","Yes",0,3,0,0,0
+"M547","2021-03-12",2242,"Lambton","Lambton Meadowview Villa","Petrolia",125,"0","0","4","Municipal","Yes","Yes","No",0,11,2,3,1
+"M548","2020-06-02",2243,"Leeds,Grenville,Lanark","Lanark Lodge","Perth",163,"0","0","4","Municipal","Yes","Yes","Yes",0,6,0,3,4
+"M549","2020-12-20",2233,"Grey-Bruce","Lee Manor Home","Owen Sound",150,"0","0","4","Municipal","Yes","Yes","No",2,6,0,2,1
+"M551","2021-02-28",2246,"Niagara","Linhaven","St. Catharines",248,"4","0","0","Municipal","Yes","Yes","Yes",1,9,0,1,2
+"M552","2021-03-12",2237,"Hamilton","Macassa  Lodge","Hamilton",270,"0","11","4","Municipal","Yes","Yes","Yes",1,8,1,4,3
+"M554","2020-05-26",2243,"Leeds,Grenville,Lanark","Maple View Lodge","Athens",60,"0","0","0","Municipal","Yes","Yes","No",0,5,0,0,1
+"M559","2021-01-12",2242,"Lambton","North Lambton Lodge","Forest",88,"4","0","0","Municipal","Yes","Yes","No",0,5,0,1,1
+"M562","2021-03-11",2253,"Peel","Peel Manor","Brampton",177,"0","5","4","Municipal","Yes","Yes","Yes",0,15,0,0,0
+"M564","2021-02-02",2260,"Simcoe-Muskoka","The Pines","Bracebridge",160,"0","0","4","Municipal","Yes","No","Yes",0,0,1,2,1
+"M566","2021-02-25",2261,"Sudbury","Pioneer Manor","Sudbury",433,"0","4","4","Municipal","Yes","Yes","Yes",1,20,5,13,9
+"M567","2021-01-12",2258,"Eastern Ontario","Residence Prescott et Russell","Hawkesbury",146,"0","15","4","Municipal","Yes","Yes","Yes",0,1,0,2,2
+"M571","2021-01-15",3895,"Toronto","Seven Oaks","Scarborough",249,"0","41","4","Municipal","Yes","Yes","Yes",0,10,1,7,1
+"M572","2021-01-24",2253,"Peel","Sheridan Villa","Mississauga",142,"0","4","4","Municipal","Yes","Yes","Yes",1,11,0,0,0
+"M573","2021-02-21",2260,"Simcoe-Muskoka","Simcoe Manor Home for the Aged","Beeton",126,"0","10","4","Municipal","Yes","Yes","Yes",0,11,0,0,0
+"M575","2021-02-22",5183,"Huron Perth","Spruce Lodge Home for the Aged","Stratford",128,"0","0","4","Municipal","Yes","No","Yes",1,9,0,0,0
+"M576","2020-11-12",2243,"Leeds,Grenville,Lanark","St. Lawrence Lodge","Brockville",224,"0","0","4","Municipal","Yes","Yes","No",0,10,1,13,8
+"M578","2021-03-01",2265,"Waterloo","Sunnyside Home","Kitchener",263,"0","0","4","Municipal","Yes","Yes","Yes",0,1,2,10,3
+"M579","2021-02-08",2268,"Windsor-Essex","Sun Parlor Home for Senior Citizens","Leamington",206,"0","4","4","Municipal","Yes","Yes","No",0,7,1,4,3
+"M581","2020-11-30",2260,"Simcoe-Muskoka","Sunset Manor Home for Senior Citizens","Collingwood",150,"4","0","4","Municipal","Yes","Yes","Yes",1,10,0,0,0
+"M583","2021-02-01",4913,"South West","Terrace Lodge","Aylmer",100,"0","0","4","Municipal","Yes","Yes","No",0,18,0,0,0
+"M585","2021-02-10",2260,"Simcoe-Muskoka","Trillium Manor Home for the Aged","Orillia",122,"0","4","0","Municipal","Yes","Yes","Yes",0,4,0,0,0
+"M586","2021-01-20",3895,"Toronto","True Davidson Acres","Toronto",187,"0","4","4","Municipal","Yes","Yes","Yes",0,3,1,1,1
+"M592","2021-02-23",2237,"Hamilton","Wentworth Lodge","Dundas",160,"0","0","4","Municipal","Yes","Yes","Yes",0,7,0,1,1
+"M595","2021-03-12",3895,"Toronto","Lakeshore Lodge","Etobicoke",150,"0","14","4","Municipal","Yes","Yes","Yes",0,3,0,0,0
+"M596","2021-02-22",3895,"Toronto","Carefree Lodge","North York",127,"4","0","0","Municipal","Yes","Yes","Yes",0,6,0,0,0
+"M599","2021-03-05",2262,"Thunder Bay","Pioneer Ridge","Thunder Bay",150,"0","0","4","Municipal","Yes","Yes","Yes",0,6,0,0,0
+"M604","2021-02-17",2246,"Niagara","Douglas H. Rapelje Lodge","Welland",120,"0","9","4","Municipal","Yes","Yes","Yes",0,2,0,0,0
+"M605","2021-03-12",2270,"York Region","York Region Maple Health Centre","Maple",100,"0","4","4","Municipal","Yes","Yes","Yes",1,11,0,0,0
+"M609","2021-03-12",2251,"Ottawa","Peter D. Clark Centre","Ottawa",216,"0","8","4","Municipal","Yes","Yes","Yes",0,0,0,17,12
+"M610","2021-02-07",2246,"Niagara","Northland Pointe","Port Colborne",151,"0","0","0","Municipal","Yes","No","Yes",0,0,0,0,1
+"M611","2020-10-01",2246,"Niagara","Deer Park Villa","Grimsby",40,"0","0","4","Municipal","Yes","No","Yes",0,5,0,0,0
+"M612","2020-12-22",3895,"Toronto","Wesburn Manor","Etobicoke",192,"0","4","4","Municipal","Yes","Yes","Yes",0,3,0,24,9
+"M613","2021-03-12",2242,"Lambton","Marshall Gowland Manor","Sarnia",126,"0","0","4","Municipal","Yes","Yes","No",0,2,0,1,2
+"M615","2020-12-22",4913,"South West","Woodingford Lodge - Tillsonburg","Tillsonburg",34,"0","0","4","Municipal","Yes","Yes","No",0,1,1,1,1
+"M616","2021-03-08",2253,"Peel","Tall Pines Long Term Care Centre","Brampton",160,"0","0","4","Municipal","Yes","Yes","Yes",0,7,0,3,1
+"M617","2021-03-12",2246,"Niagara","The Woodlands of Sunset","Welland",121,"0","0","4","Municipal","Yes","Yes","Yes",1,3,0,2,3
+"M618","2021-03-12",2253,"Peel","Malton Village Long Term Care Centre","Mississauga",160,"0","4","4","Municipal","Yes","Yes","Yes",7,12,0,0,0
+"M619","2021-01-20",2263,"Timiskaming","Teck Pioneer Residence","Kirkland Lake",81,"0","0","4","Municipal","Yes","Yes","Yes",0,9,0,0,0
+"M620","2021-02-10",2236,"Halton","Post Inn Village","Oakville",228,"0","4","4","Municipal","Yes","Yes","Yes",0,7,0,0,0
+"M621","2021-03-12",2257,"Renfrew","Miramichi Lodge","Pembroke",166,"4","4","4","Municipal","Yes","Yes","Yes",0,0,0,0,0
+"M622","2021-02-28",2251,"Ottawa","Garry J. Armstrong Home","Ottawa",180,"0","0","0","Municipal","Yes","Yes","Yes",0,11,2,19,15
+"M623","2021-02-17",2236,"Halton","Creek Way Village","Burlington",144,"0","4","4","Municipal","Yes","Yes","Yes",0,4,0,3,1
+"M624","2021-02-13",2234,"Haldimand-Norfolk","Norview Lodge","Simcoe",179,"0","0","0","Municipal","Yes","Yes","Yes",0,7,0,2,1
+"M626","2021-01-17",2240,"Chatham-Kent","Riverview Gardens","Chatham",320,"0","0","4","Municipal","Yes","Yes","No",0,0,0,13,7
+"M627","2021-03-12",2244,"Middlesex-London","Strathmere Lodge","Strathroy",160,"0","0","4","Municipal","Yes","Yes","No",3,18,0,0,0
+"M628","2021-02-25",4913,"South West","Valleyview Home","St. Thomas",136,"0","0","4","Municipal","Yes","Yes","Yes",1,7,0,0,0
+"M629","2021-03-09",2266,"Wellington-Dufferin-Guelph","Wellington Terrace Long-Term Care Home","Fergus",176,"0","0","0","Municipal","Yes","Yes","No",0,1,0,0,0
+"M630","2021-02-05",2230,"Durham","Hillsdale Terraces","Oshawa",200,"0","13","4","Municipal","Yes","Yes","Yes",0,1,0,2,2
+"M631","2021-02-10",2268,"Windsor-Essex","Huron Lodge Long Term Care Home","Windsor",224,"4","9","0","Municipal","Yes","No","Yes",0,7,0,1,2
+"M632","2021-02-08",4913,"South West","Woodingford Lodge - Woodstock","Woodstock",160,"0","0","4","Municipal","Yes","No","No",0,5,0,0,0
+"M633","2021-02-25",2266,"Wellington-Dufferin-Guelph","The Elliott Long Term Care Residence","Guelph",85,"0","0","4","Non-Profit","Yes","Yes","Yes",0,1,0,0,0
